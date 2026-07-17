@@ -1,0 +1,27 @@
+# Copy this file to <episode_slug>/manifest.yaml and fill in the URLs.
+#
+# You only need to fill in the URLs you actually posted to — leave the rest
+# blank and the puller will skip them.
+
+episode: "EPNN - Guest Name"
+posted_at: "YYYY-MM-DD HH:MM PST"   # when you hit publish on YouTube
+
+urls:
+  # — YouTube —
+  youtube:           ""    # main episode video, e.g. https://www.youtube.com/watch?v=...
+  youtube_short:     ""    # YouTube Shorts clip, e.g. https://www.youtube.com/shorts/...
+
+  # — Instagram —
+  instagram_main:    ""    # feed post, e.g. https://www.instagram.com/p/...
+  instagram_reel:    ""    # IG Reel, e.g. https://www.instagram.com/reel/...
+
+  # — Facebook —
+  facebook_main:     ""    # Talking Downey FB post
+  facebook_downey:   ""    # Downey Beat FB post
+
+  # — TikTok —
+  tiktok:            ""    # e.g. https://www.tiktok.com/@talkingdowney/video/...
+
+  # — Add more clips as you post them; pull_public.py iterates every URL —
+  # tiktok_clip2:    ""
+  # instagram_reel2: ""

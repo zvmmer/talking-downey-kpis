@@ -1,0 +1,34 @@
+episode: "Setting the Record Straight: I Was Forced to Respond"
+posted_at: "2026-06-08"
+
+urls:
+  # — YouTube —
+  youtube:           "https://www.youtube.com/watch?v=B9AEB8MOo1E"
+
+  # — TikTok — 5 most recent posts on @talkingdowney —
+  tiktok_1:          "https://www.tiktok.com/@talkingdowney/video/7649093006326271245"   # 2026-06-08
+  tiktok_2:          "https://www.tiktok.com/@talkingdowney/video/7646481393416965389"   # 2026-06-01
+  tiktok_3:          "https://www.tiktok.com/@talkingdowney/video/7646457629224537357"   # 2026-06-01
+  tiktok_4:          "https://www.tiktok.com/@talkingdowney/video/7646166793605647630"   # 2026-05-31
+  tiktok_5:          "https://www.tiktok.com/@talkingdowney/video/7646163844078783758"   # 2026-05-31
+
+  # — Instagram — needs per-post URLs (IG blocks profile scraping).
+  # Open the IG app on phone, find your most recent post, tap "..." → Copy link.
+  # Paste them in here, then re-run pull_public.py.
+  instagram_reel_1:  ""
+  instagram_reel_2:  ""
+  instagram_reel_3:  ""
+
+  # — Facebook — same situation as IG. Public FB posts need direct URLs.
+  facebook_main:     ""
+  facebook_downey:   ""
+
+# — Apify scraping targets (profile-level, used by pull_apify.py) —
+# Once you've added your Apify token (see SETUP_APIFY.md), run:
+#   pull_apify.py --manifest <this file> --tag t0
+apify_targets:
+  instagram_profile:   "https://www.instagram.com/talkingdowney/"
+  facebook_page:       "https://www.facebook.com/TalkingDowney"
+  youtube_channel:     "https://www.youtube.com/@talkingdowney"
+  youtube_since_date:  "2026-06-08"   # engagement start — older uploads are noise
+  tiktok_profile:      "https://www.tiktok.com/@talkingdowney"

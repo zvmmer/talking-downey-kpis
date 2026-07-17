@@ -1,0 +1,15 @@
+# YouTube API (used by pull_youtube.py — currently disabled, kept for future OAuth path)
+google-api-python-client>=2.100,<3
+google-auth>=2.20,<3
+google-auth-oauthlib>=1.0,<2
+google-auth-httplib2>=0.1,<1
+
+# Manifest parsing (pull_apify.py + pull_public.py)
+PyYAML>=6.0,<7
+
+# PPTX deck generation (all build_*_report.py builders + report_helpers.py)
+python-pptx>=0.6.21,<2
+
+# HTTP + TLS (pull_public.py + pull_apify.py error handling)
+certifi>=2024.0,<2027
+requests>=2.31,<3

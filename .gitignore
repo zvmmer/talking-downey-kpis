@@ -1,0 +1,30 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Secrets — NEVER commit
+.credentials/
+
+# Local state
+.last_scheduled_run
+*.log
+snapshots.log
+launchd_stdout.log
+launchd_stderr.log
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Legacy from monorepo (not part of this repo anymore)
+MCP/
+
+# Preserve these outputs (they're the deliverables):
+# - *.pptx
+# - SOCIAL_URL_REGISTRY.md/.csv
+# - episodes_public/**/snapshots/*.json
