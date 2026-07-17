@@ -13,7 +13,7 @@
 #   5. Auto-commits + pushes to git for cross-machine sync
 #   6. Notifies via macOS notification on success or failure
 #
-# Log: Projects/talking_downey/kpis/snapshots.log
+# Log: ~/talking-downey-kpis/snapshots.log
 
 set +e   # keep going on individual failures so we can send notifications
 
@@ -101,7 +101,7 @@ done
 
 # Git commit + push
 log "Committing + pushing to origin/main..."
-git add "Projects/talking_downey/kpis/" >> "$LOG" 2>&1
+git add -A >> "$LOG" 2>&1
 if git diff --cached --quiet; then
     log "No changes to commit (already up to date?)"
 else
