@@ -3,7 +3,7 @@
 Rolls up EVERY tracked post since engagement start (2026-06-08) into a
 single deck. This is the "since we started" view — no monthly split,
 no comparison — just the full picture for someone asking "how have we
-done since Kaname took over?"
+done since Z took over?"
 
 Uses report_helpers.py.
 
@@ -54,7 +54,7 @@ def slide_title(prs):
              size=13, color=PALETTE["muted"])
 
     add_text(slide, 1.0, 6.6, 11, 0.4,
-             "Prepared by Zhamir Pascual — Kaname Z",
+             "Prepared by Zhamir Pascual — Z",
              size=12, color=PALETTE["muted"])
 
 

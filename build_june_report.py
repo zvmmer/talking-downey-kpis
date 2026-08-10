@@ -204,7 +204,7 @@ def slide_title(prs):
              size=13, color=PALETTE["muted"])
 
     add_text(slide, 1.0, 6.6, 11, 0.4,
-             "Prepared by Zhamir Pascual — Kaname Z",
+             "Prepared by Zhamir Pascual — Z",
              size=12, color=PALETTE["muted"])
 
 

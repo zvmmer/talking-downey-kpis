@@ -88,9 +88,9 @@ def http_post_json(url: str, body: dict, timeout: int = 180) -> dict:
             return json.loads(resp.read().decode("utf-8"))
     except urllib.error.HTTPError as e:
         body_text = e.read().decode("utf-8", errors="ignore")[:300]
-        sys.exit(f"Apify HTTP {e.code}: {body_text}")
+        raise RuntimeError(f"Apify HTTP {e.code}: {body_text}")
     except urllib.error.URLError as e:
-        sys.exit(f"Apify network error: {e.reason}")
+        raise RuntimeError(f"Apify network error: {e.reason}")
 
 
 def http_get_json(url: str) -> dict | list:
@@ -99,7 +99,7 @@ def http_get_json(url: str) -> dict | list:
             return json.loads(resp.read().decode("utf-8"))
     except urllib.error.HTTPError as e:
         body_text = e.read().decode("utf-8", errors="ignore")[:300]
-        sys.exit(f"Apify HTTP {e.code}: {body_text}")
+        raise RuntimeError(f"Apify HTTP {e.code}: {body_text}")
 
 
 def check_token(token: str) -> None:
@@ -341,44 +341,65 @@ def main() -> None:
 
     collected: list[dict] = []
 
+    platforms_failed: list[str] = []
+
     ig_url = targets.get("instagram_profile")
     if ig_url:
         print(f"  → Instagram via Apify: {ig_url}")
-        ig_items = scrape_instagram(token, ig_url, results=args.ig_results)
-        print(f"    ✓ {len(ig_items)} posts")
-        for i, rec in enumerate(ig_items, 1):
-            rec["label"] = f"instagram_post_{i}"
-        collected.extend(ig_items)
+        try:
+            ig_items = scrape_instagram(token, ig_url, results=args.ig_results)
+            print(f"    ✓ {len(ig_items)} posts")
+            for i, rec in enumerate(ig_items, 1):
+                rec["label"] = f"instagram_post_{i}"
+            collected.extend(ig_items)
+        except RuntimeError as exc:
+            print(f"    ✗ Instagram skipped: {exc}")
+            platforms_failed.append("instagram")
 
     fb_url = targets.get("facebook_page")
     if fb_url:
         print(f"  → Facebook via Apify: {fb_url}")
-        fb_items = scrape_facebook(token, fb_url, results=args.fb_results)
-        print(f"    ✓ {len(fb_items)} posts")
-        for i, rec in enumerate(fb_items, 1):
-            rec["label"] = f"facebook_post_{i}"
-        collected.extend(fb_items)
+        try:
+            fb_items = scrape_facebook(token, fb_url, results=args.fb_results)
+            print(f"    ✓ {len(fb_items)} posts")
+            for i, rec in enumerate(fb_items, 1):
+                rec["label"] = f"facebook_post_{i}"
+            collected.extend(fb_items)
+        except RuntimeError as exc:
+            print(f"    ✗ Facebook skipped: {exc}")
+            platforms_failed.append("facebook")
 
     yt_url = targets.get("youtube_channel")
     if yt_url:
         yt_since = targets.get("youtube_since_date")  # e.g. "2026-06-08"
         print(f"  → YouTube via Apify: {yt_url}"
               + (f" (since {yt_since})" if yt_since else ""))
-        yt_items = scrape_youtube(token, yt_url, results=args.yt_results,
-                                  since_date=yt_since)
-        print(f"    ✓ {len(yt_items)} videos")
-        for i, rec in enumerate(yt_items, 1):
-            rec["label"] = f"youtube_video_{i}"
-        collected.extend(yt_items)
+        try:
+            yt_items = scrape_youtube(token, yt_url, results=args.yt_results,
+                                      since_date=yt_since)
+            print(f"    ✓ {len(yt_items)} videos")
+            for i, rec in enumerate(yt_items, 1):
+                rec["label"] = f"youtube_video_{i}"
+            collected.extend(yt_items)
+        except RuntimeError as exc:
+            print(f"    ✗ YouTube skipped: {exc}")
+            platforms_failed.append("youtube")
 
     tt_url = targets.get("tiktok_profile")
     if tt_url:
         print(f"  → TikTok via Apify: {tt_url}")
-        tt_items = scrape_tiktok(token, tt_url, results=args.tt_results)
-        print(f"    ✓ {len(tt_items)} videos")
-        for i, rec in enumerate(tt_items, 1):
-            rec["label"] = f"tiktok_video_{i}"
-        collected.extend(tt_items)
+        try:
+            tt_items = scrape_tiktok(token, tt_url, results=args.tt_results)
+            print(f"    ✓ {len(tt_items)} videos")
+            for i, rec in enumerate(tt_items, 1):
+                rec["label"] = f"tiktok_video_{i}"
+            collected.extend(tt_items)
+        except RuntimeError as exc:
+            print(f"    ✗ TikTok skipped: {exc}")
+            platforms_failed.append("tiktok")
+
+    if not collected and platforms_failed:
+        sys.exit(f"\nAll platforms failed — no data collected. Failures: {', '.join(platforms_failed)}")
 
     merge_into_snapshot(
         snap_path,
@@ -389,6 +410,9 @@ def main() -> None:
     )
     print(f"\n✓ Merged into: {snap_path}")
     print(f"  Added {len(collected)} records.")
+    if platforms_failed:
+        print(f"  WARNING: {len(platforms_failed)} platform(s) skipped (credit/error): {', '.join(platforms_failed)}")
+        sys.exit(1)  # non-zero so the scheduler logs it, but data is saved
 
 
 if __name__ == "__main__":

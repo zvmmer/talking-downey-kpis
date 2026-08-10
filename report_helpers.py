@@ -136,28 +136,37 @@ def snap_pt_label(snap) -> str:
 CATEGORY_ORDER = [
     # Scandal-first: critical/investigative content about specific figures.
     # Huntington Park lives here — Trujillo is HP mayor, HP posts are almost always about his conduct/policies.
-    ("trujillo_scandal",              r"\b(trujillo|mario a\.?\s*trujillo|huntington park|huntington|hp mayor)\b"),
+    # Trujillo scandal (per Zhamir: "anything about Trujillo keep it with him"). Includes rebuttal posts where he defends himself.
+    ("trujillo_scandal",              r"\b(trujillo|mario a\.?\s*trujillo|huntington park|huntington|hp mayor|fake rumors|fake ai (narratives?|tactics?)|being followed.*not backing down|podcast host.*(fuels? division|attacks? opponents?|talks? down on women)|married 42 years.*no strippers|attacking opponents.*fueling division|prefer fake ai|share the real story|standing by my (record|actions)|not backing down)\b"),
     ("lisette_scandal",               r"\b(lisette|lizsette|liz\s*sette)\b"),
     ("ai_fake_news",                  r"\b(ai\s*fake|fake\s*(page|news|logo)|slander|deepfake|ai\s*video)\b"),
     # Chaos = incident-driven only. Plain "council" mentions fall through to elections/political_individual_highlight.
     ("council_chaos",                 r"\b(council chambers|chambers.*(escort|yelling|police|outburst|warned)|f-bomb|f bomb|elderly resident.*f off|escorted out.*meeting|outburst.*council|forceful.*escort|yelling.*chambers|police escort.*council)\b"),
     ("ice_immigration",               r"\b(ice|federal investigation|immigrant|nicaragua)\b"),
     # Judicial BEFORE political_individual_highlight so judges stay judges.
-    ("judicial",                      r"\b(judge|judicial|prosecutor|courtroom|jury|homicide|attorney|criminal|prop 50|pat connolly|maria ghobadi|gloria marin|irene lee)\b"),
+    # Judicial + legal advocacy — expanded to catch public defender content, juror content, justice system commentary.
+    ("judicial",                      r"\b(judge|judicial|prosecutor|courtroom|jury|homicide|attorney|criminal|prop 50|pat connolly|maria ghobadi|gloria marin|irene lee|public defender|presumed innocent|juror|jury summons|due process|justice system|implicit bias(es)?|imperfections.*(justice|system)|fight hard for.*clients|misconception.*public defender)\b"),
     # Personality-profile buckets — NOT scandal, just highlights.
     ("political_individual_highlight", r"\b(carrie|uva|hector sosa|hector de la torre|erik lutz|mario a\.?\s*guerra|nader moghaddam|meet the|inside the campaign|reelect(ion)?|running for city council|for downey city council|district 4|willing to appoint)\b"),
     ("resident_highlight",            r"\b(granata|gately|30 years|restaurant.*owner|owner.*restaurant|deacon|father's story|diabetes|small business owner|one 12 caffe|smile on|running a restaurant)\b"),
+    # Military — Army/JROTC/veteran interview content. NOTE: veteran POLICY/bill/prop content routes to legislation_policy_watch instead (checked AFTER this).
+    ("military_service",              r"\b(military|army|marines?|navy|jrotc|rotc|enlist(ed|ing|ment)?|deployed|deployment|mos|servicemember|service member|combat|boot camp|drill sergeant|basic training|veterans?|va (benefits|hospital|clinic)|honorable discharge|dog tags|uniform|active duty|reserves?)\b"),
+    # Legislation / policy / bills / propositions — HOA fights, AB/SB bills, wealth tax, ballot props.
+    ("legislation_policy_watch",      r"\b(assembly bill|senate bill|ab\s*\d+|sb\s*\d+|proposition\s*\d+|prop\s*\d+|wealth tax|billionaire tax|liquidated damages|hoa (bill|law|regulation|reform)|condo buyer|public records request|legislative wins|legislative loss|policy commentary|ballot measure)\b"),
     ("elections",                     r"\b(vote|voting|election|campaign|candidate|measure er|endorsement|primary)\b"),
     ("politics_other",                r"\b(mayor|politician|democrat|republican|committee|fined|congress|city leader)\b"),
-    ("american_pride",                r"\b(american|independence|declaration|founding fathers|1,337 words|july 4|4th of july|memorial|veteran|patriot|embarrassed to be american|pride in this country)\b"),
+    # American Pride — patriotic + historical/analytical (1968, forefathers, unity language).
+    ("american_pride",                r"\b(american|america|independence|declaration|founding fathers|forefathers|1,337 words|july 4|4th of july|memorial day|patriot|embarrassed to be american|pride in this country|1968|hippie|lbj|mlk|rfk|assassination.*(mlk|rfk|kennedy)|revolution.*status quo|divided.*forefathers|united.*divide|our country|our nation|our flag|hold hands.*move forward|country.*unique|country.*opportunity)\b"),
     # FIFA BEFORE downtown_development so Stonewood watch parties land in FIFA.
     ("fifa_positive",                 r"\b(watch part|25,000|stonewood mall.*fifa|unite|passion|celebrate responsibly|championship game|sports unite)\b"),
     ("fifa_critique",                 r"\b(fifa.*money|billion|money-making|substitution|crowding out|profit.*fifa|world cup.*tax)\b"),
-    # Physical growth of downtown — places, retail, infrastructure.
-    ("downtown_development",          r"\b(round one|round1|stonewood|new asian|new restaurant|opening|main street|ymca|in-n-out|bowling|downtown improvement|gateway sign|columbia space|redevelop|new building|new business)\b"),
-    ("food",                          r"\b(food|cuisine|restaurant|asian|dish|chef|eat|dining|bbq|pho|korean|mama lu|porto|fun box|chula|gyu|mango|brooklyn square|pizza|breakfast|lunch)\b"),
+    # Physical growth of downtown — places, retail, infrastructure. Added fun box/funbox for the new entertainment venue.
+    ("downtown_development",          r"\b(round one|round1|stonewood|new asian|new restaurant|opening|main street|ymca|in-n-out|bowling|downtown improvement|gateway sign|columbia space|redevelop|new building|new business|fun box|funbox|new entertainment)\b"),
+    # Food — added wings/pastrami/sandwich/foodie/pop's etc. to catch Pop's Wings + similar.
+    ("food",                          r"\b(food|cuisine|restaurant|asian|dish|chef|eat|dining|bbq|pho|korean|mama lu|porto|fun box|chula|gyu|mango|brooklyn square|pizza|breakfast|lunch|wings?|pastrami|sandwich|sweet potato|foodie|must-try|pop's|game-changer.*(food|meal|dish)|just opened.*(restaurant|wings|pizza|kitchen))\b"),
     ("brand_growth",                  r"\b(social media growth|exponential|100k views|54k|growth.*combined|views.*combined|our.*growth|social.*growth)\b"),
-    ("community_events",              r"\b(pageant|night market|chamber|event|festival|holy week|lent|holiday|graffiti)\b"),
+    # Community events — added pageantry / women empowerment content (self-discovery, ladies your time, personal growth via competition).
+    ("community_events",              r"\b(pageant(ry)?|night market|chamber|festival|holy week|lent|holiday|graffiti|self.?discovery|ladies.*(time|now|leap|second-guess)|leap of faith|inner strength through competition|inner strength.*grit|about beating others|journey of self|second.?guessing yourself|embrace your individuality)\b"),
     ("community_local",               r"\b(downey|pico rivera|cudahy|city seal|20 years|letter)\b"),
 ]
 
@@ -174,28 +183,47 @@ def categorize_v2(text: str) -> str:
 # into presentable buckets. The sponsor sees "TRUTH & SCANDAL" not
 # "trujillo_scandal · lisette_scandal · ai_fake_news · council_chaos".
 SPONSOR_GROUPS = [
+    # 5-tuple: (label, categories, color_key, blurb, audience_tag)
+    # audience_tag is THEORETICAL — content-vibe inference. See "theory disclaimer" slide in sponsor deck.
     ("Truth & Scandal Reporting",       ["trujillo_scandal", "lisette_scandal", "ai_fake_news", "council_chaos", "ice_immigration"],
-     "cherry", "Investigative — the heat that drives peak reach."),
+     "cherry", "Investigative — the heat that drives peak reach.",
+     "Cut-throat drama · punches hardest Young (18-40), broad appeal"),
     ("Elections & Judicial",             ["elections", "judicial", "politics_other"],
-     "navy",   "Coverage of campaigns, courts, and local government."),
+     "navy",   "Coverage of campaigns, courts, and local government.",
+     "Slow-burn policy · Middle (40-55) + Older (55+) engaged voters"),
+    ("Legislation & Policy Watch",       ["legislation_policy_watch"],
+     "navy",   "CA bills, propositions, HOA fights, wealth tax — policy commentary independent of candidates.",
+     "Slow-burn policy · Older (55+), civic-engaged"),
+    ("Military Service",                 ["military_service"],
+     "gold",   "Army/JROTC/veteran interviews — the human side of military service (NOT policy — that's Legislation Watch).",
+     "Traditional / patriotic · Middle (40-55) + Older (55+), veterans + families"),
     ("Resident Highlights",              ["resident_highlight"],
-     "green",  "Non-political citizen profiles — small business owners, community members. Granata, Gately, the deacon."),
+     "green",  "Non-political citizen profiles — small business owners, community members. Granata, Gately, the deacon.",
+     "Human interest · Broad, community-connected"),
     ("Political Individual Highlights",  ["political_individual_highlight"],
-     "sky",    "Candidate/elected personality profiles — Carrie Uva, Hector Sosa. Not scandal-driven; just meet-the-person."),
+     "sky",    "Candidate/elected personality profiles — Carrie Uva, Hector Sosa. Not scandal-driven.",
+     "Personal profile · Broad (voters, campaign-season readers)"),
     ("Downtown Development",             ["downtown_development"],
-     "gold",   "Physical growth of Downey — Round One, Stonewood, YMCA, new businesses opening."),
+     "gold",   "Physical growth of Downey — Round One, Fun Box, Stonewood, YMCA, new businesses opening.",
+     "Local civic pride · Downey residents 30+"),
     ("American Pride",                   ["american_pride"],
-     "cherry", "Patriotic content — July 4th, veterans, pride pieces."),
+     "cherry", "Patriotic content + historical/analytical (1968, forefathers, unity language).",
+     "Traditional / patriotic · Older (55+), values-driven"),
     ("Food & Local Flavor",              ["food"],
-     "green",  "Restaurants, chefs, dining — the everyday Downey."),
+     "green",  "Restaurants, chefs, dining — the everyday Downey. Pop's Wings, Porto's, Gyu, etc.",
+     "Everyday appeal · Broad, skews Young (18-40) foodie"),
     ("FIFA / World Cup",                 ["fifa_positive", "fifa_critique"],
-     "muted",  "Sports commentary — split between celebration and critique."),
+     "muted",  "Sports commentary — split between celebration and critique.",
+     "Sports commentary · Young-Middle (25-45), sports fans"),
     ("Brand Growth Content",             ["brand_growth"],
-     "blush",  "Self-referential updates — 'our growth is exponential' style posts."),
+     "blush",  "Self-referential updates — 'our growth is exponential' style posts.",
+     "Insider / meta · Existing followers only (echo chamber — can't scale)"),
     ("Community & Culture",              ["community_events", "community_local"],
-     "ink",    "Local color, events, city life."),
+     "ink",    "Local color, events, pageantry, personal growth, city life.",
+     "Local color · Broad, 30+"),
     ("Other / Uncategorized",            ["other"],
-     "muted",  "Content that doesn't fit the above buckets — usually casual/BTS."),
+     "muted",  "Content that doesn't fit the above buckets.",
+     "Unknown / mixed · Not scored"),
 ]
 
 

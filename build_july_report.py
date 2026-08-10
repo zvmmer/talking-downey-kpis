@@ -69,7 +69,7 @@ def slide_title(prs):
              size=13, color=PALETTE["muted"])
 
     add_text(slide, 1.0, 6.6, 11, 0.4,
-             "Prepared by Zhamir Pascual — Kaname Z",
+             "Prepared by Zhamir Pascual — Z",
              size=12, color=PALETTE["muted"])
 
 
@@ -313,6 +313,49 @@ def slide_top_posts_july(prs, july_posts):
 
 
 def slide_takeaway(prs, june_posts, july_posts):
+    from report_helpers import group_by_category
+
+    # ── compute from real data ────────────────────────────────────────
+    top_post = max(july_posts, key=lambda p: int(p.get("view_count") or 0), default=None)
+    top_views = int(top_post.get("view_count") or 0) if top_post else 0
+    top_title = ((top_post.get("title") or top_post.get("description_excerpt") or ""))[:65] if top_post else ""
+    top_plat = {"instagram": "IG", "tiktok": "TT", "facebook": "FB", "youtube": "YT"}.get(
+        (top_post or {}).get("platform"), "?")
+    top_cat = (top_post or {}).get("_category", "other").replace("_", " ").title()
+
+    buckets = group_by_category(july_posts)
+    # Top category by total views
+    cat_totals = {cat: sum(int(p.get("view_count") or 0) for p in posts)
+                  for cat, posts in buckets.items() if posts}
+    top_cat_key = max(cat_totals, key=lambda c: cat_totals[c], default="other")
+    top_cat_label = top_cat_key.replace("_", " ").title()
+    top_cat_views = cat_totals.get(top_cat_key, 0)
+
+    # Platform spread for July
+    plat_views = {}
+    for p in july_posts:
+        pl = p.get("platform", "?")
+        plat_views[pl] = plat_views.get(pl, 0) + int(p.get("view_count") or 0)
+    top_plat_name = max(plat_views, key=lambda pl: plat_views[pl], default="?").title()
+
+    # Positive vs investigative ratio
+    scandal_cats = {"trujillo_scandal", "lisette_scandal", "ai_fake_news", "council_chaos", "ice_immigration"}
+    positive_cats = {"resident_highlight", "political_individual_highlight", "downtown_development",
+                     "american_pride", "food", "community_events", "community_local",
+                     "military_service", "fifa_positive", "brand_growth"}
+    n_scandal = sum(len(buckets.get(c, [])) for c in scandal_cats)
+    n_positive = sum(len(buckets.get(c, [])) for c in positive_cats)
+    n_total = len(july_posts)
+
+    bullets = [
+        f"June posts (Jun 8–30): {len(june_posts)}  →  July posts (Jul 1–31): {len(july_posts)}",
+        f"#1 post in July: [{top_plat}] {fmt_int(top_views)} views — {top_cat} — \"{top_title}\"",
+        f"Top-earning category: {top_cat_label} ({fmt_int(top_cat_views)} total views in July)",
+        f"Content split: {n_scandal} investigative posts vs {n_positive} positive/community posts",
+        f"Dominant platform for reach: {top_plat_name} (largest share of total July views)",
+    ]
+
+    # ── slide layout ──────────────────────────────────────────────────
     slide = prs.slides.add_slide(prs.slide_layouts[6])
     add_rect(slide, 0, 0, LAYOUT_W, LAYOUT_H, PALETTE["ink"])
     add_rect(slide, 0, 4.7, LAYOUT_W, LAYOUT_H - 4.7, PALETTE["sky"])
@@ -327,13 +370,6 @@ def slide_takeaway(prs, june_posts, july_posts):
              "July was the sequel — same engine, plus new lanes.",
              size=15, color=PALETTE["cream"])
 
-    bullets = [
-        f"June posts (Jun 8–30 window): {len(june_posts)}  →  July posts (Jul 1–31 window): {len(july_posts)}",
-        "Political-only spine broadened to include Downey growth stories + American pride content",
-        "Paul Granata episode (Jul 2) opened a new lane: local business + downtown revival",
-        "July 4th content proved the audience responds to positive/celebratory as well",
-        "Brand growth self-reporting posts landed — audience validated the meta-narrative",
-    ]
     for i, b in enumerate(bullets):
         add_text(slide, 1.0, 3.2 + i * 0.32, 11.3, 0.3,
                  "—  " + b, size=12, color=PALETTE["cream"])
