@@ -1,0 +1,50 @@
+{
+  "episode": "Setting the Record Straight: I Was Forced to Respond",
+  "posted_at": "2026-06-08",
+  "snapshot_tag": "t28",
+  "pulled_at": "2026-09-01T00:28:05.932176+00:00",
+  "records": [
+    {
+      "platform": "youtube",
+      "id": "B9AEB8MOo1E",
+      "url": "https://www.youtube.com/watch?v=B9AEB8MOo1E",
+      "title": "Setting the Record Straight: I Was Forced to Respond",
+      "uploader": "Talking Downey",
+      "upload_date": "2026-06-08T07:00:14.000Z",
+      "duration_s": "00:27:00",
+      "view_count": 389,
+      "like_count": 17,
+      "comment_count": 2,
+      "description_excerpt": "After being publicly mentioned multiple times during recent meetings and political discussions involving Downey Councilmember Mario Trujillo, former Mayor Mario Guerra says enough is enough.\n\nIn this ",
+      "label": "youtube_video_1"
+    },
+    {
+      "platform": "youtube",
+      "id": "XY_LNyqvW-s",
+      "url": "https://www.youtube.com/watch?v=XY_LNyqvW-s",
+      "title": "Thinking About Competing In A Pageant?",
+      "uploader": "Talking Downey",
+      "upload_date": "2026-06-30T07:00:10.000Z",
+      "duration_s": "00:15:44",
+      "view_count": 54,
+      "like_count": 1,
+      "comment_count": null,
+      "description_excerpt": "In this episode of Talking Downey, Kayla sits down with Margaret Manuel, Director of the USOA California Pageants, to discuss what it's really like to compete, the confidence and leadership skills pag",
+      "label": "youtube_video_2"
+    },
+    {
+      "platform": "youtube",
+      "id": "i1CMwrvVzHE",
+      "url": "https://www.youtube.com/watch?v=i1CMwrvVzHE",
+      "title": "Donna Tryfman on Public Defense, Jury Trials, and Running for Judge | Talking Downey",
+      "uploader": "Talking Downey",
+      "upload_date": "2026-07-13T17:10:25.000Z",
+      "duration_s": "00:30:46",
+      "view_count": 85,
+      "like_count": 6,
+      "comment_count": 1,
+      "description_excerpt": "In this episode of Talking Downey, Mario Guerra sits down with Donna Tryfman for a deep conversation on justice, courtroom experience, and public service.\n\nDonna shares her path as a senior public def",
+      "label": "youtube_video_3"
+    }
+  ]
+}

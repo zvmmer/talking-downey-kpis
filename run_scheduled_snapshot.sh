@@ -40,24 +40,29 @@ notify_fail() {
 }
 
 # --- Guardrails ---
+# FORCE_SNAPSHOT=1 bypasses the day/hour/once-per-day checks below (used for
+# on-demand triggers, e.g. Kaze/Discord asking for a snapshot right now).
+# The lock-file guard always applies — never allow two runs at once.
+if [[ "${FORCE_SNAPSHOT:-0}" != "1" ]]; then
+    # 1. Only Mon/Wed/Fri (%u returns 1-7 for Mon-Sun)
+    DOW=$(date +%u)
+    if [[ "$DOW" != "1" && "$DOW" != "3" && "$DOW" != "5" ]]; then
+        exit 0   # silent — this is not an error, just not our day
+    fi
 
-# 1. Only Mon/Wed/Fri (%u returns 1-7 for Mon-Sun)
-DOW=$(date +%u)
-if [[ "$DOW" != "1" && "$DOW" != "3" && "$DOW" != "5" ]]; then
-    exit 0   # silent — this is not an error, just not our day
-fi
+    # 2. Only after 6am
+    HOUR=$(date +%H)
+    if (( 10#$HOUR < 6 )); then
+        exit 0   # silent — too early
+    fi
 
-# 2. Only after 6am
-HOUR=$(date +%H)
-if (( 10#$HOUR < 6 )); then
-    exit 0   # silent — too early
+    # 3. Already ran today? Skip silently
+    TODAY=$(date +%Y-%m-%d)
+    if [[ -f "$LAST_RUN" ]] && [[ "$(cat "$LAST_RUN")" == "$TODAY" ]]; then
+        exit 0
+    fi
 fi
-
-# 3. Already ran today? Skip silently
-TODAY=$(date +%Y-%m-%d)
-if [[ -f "$LAST_RUN" ]] && [[ "$(cat "$LAST_RUN")" == "$TODAY" ]]; then
-    exit 0
-fi
+TODAY=${TODAY:-$(date +%Y-%m-%d)}
 
 # 4. Another run in progress? Skip silently (won't happen normally, but safety)
 if [[ -f "$LOCK" ]]; then
@@ -92,7 +97,22 @@ if ! "$VENV_PY" "$KPIS/build_url_registry.py" >> "$LOG" 2>&1; then
 fi
 
 # Regenerate all 3 decks
-for script in build_july_report.py build_overall_report.py build_sponsor_content_report.py; do
+# Current-month performance deck. Convention: build_<month>_report.py per month
+# (e.g. build_july_report.py, build_august_report.py). Each one is a bespoke
+# narrative on top of report_helpers.py, not a generic template — so if this
+# month's file doesn't exist yet, skip with a loud log line instead of failing.
+CURRENT_MONTH_NAME=$(date +%B | tr '[:upper:]' '[:lower:]')
+MONTHLY_SCRIPT="$KPIS/build_${CURRENT_MONTH_NAME}_report.py"
+if [[ -f "$MONTHLY_SCRIPT" ]]; then
+    log "Running build_${CURRENT_MONTH_NAME}_report.py..."
+    if ! "$VENV_PY" "$MONTHLY_SCRIPT" >> "$LOG" 2>&1; then
+        notify_fail "build_${CURRENT_MONTH_NAME}_report.py failed"
+    fi
+else
+    log "SKIP: no per-month builder for $CURRENT_MONTH_NAME — create $MONTHLY_SCRIPT to enable."
+fi
+
+for script in build_overall_report.py build_sponsor_content_report.py build_state_of_show.py; do
     log "Running $script..."
     if ! "$VENV_PY" "$KPIS/$script" >> "$LOG" 2>&1; then
         notify_fail "$script failed"
