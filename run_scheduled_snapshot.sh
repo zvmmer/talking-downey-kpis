@@ -1,8 +1,8 @@
 #!/bin/bash
-# Talking Downey scheduled snapshot — auto-runs Mon/Wed/Fri after 6am.
+# Talking Downey scheduled snapshot — auto-runs Friday after 6am.
 #
 # Triggered by ~/Library/LaunchAgents/com.kaname.talking-downey-snapshot.plist
-# on login + at 6am/9am/12pm on Mon/Wed/Fri. Idempotent guardrails prevent
+# on login + at 6am/9am/12pm on Friday. Idempotent guardrails prevent
 # duplicate runs the same day.
 #
 # What it does:
@@ -44,9 +44,9 @@ notify_fail() {
 # on-demand triggers, e.g. Kaze/Discord asking for a snapshot right now).
 # The lock-file guard always applies — never allow two runs at once.
 if [[ "${FORCE_SNAPSHOT:-0}" != "1" ]]; then
-    # 1. Only Mon/Wed/Fri (%u returns 1-7 for Mon-Sun)
+    # 1. Only Friday (%u returns 1-7 for Mon-Sun)
     DOW=$(date +%u)
-    if [[ "$DOW" != "1" && "$DOW" != "3" && "$DOW" != "5" ]]; then
+    if [[ "$DOW" != "5" ]]; then
         exit 0   # silent — this is not an error, just not our day
     fi
 
