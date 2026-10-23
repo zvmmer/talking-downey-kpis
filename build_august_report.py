@@ -2,15 +2,15 @@
 
 Third in the series (after build_june_report.py + build_july_report.py). July
 was the "brand momentum" story; August is the counter-move — volume held but
-reach softened, no scandal swings, 57 percent of posts landed in "other" as
-the show explored formats without a clear pillar.
+reach softened, no scandal swings, and posts spread across many lanes as
+the show explored formats without a single clear pillar.
 
 Slides:
     1. Title — "August 2026 — The Exploration Month"
     2. Since June 8 — cumulative rollup across all 3 months
     3. July -> August — the delta table with the "exploration, not spicy" read
     4. Platform-by-platform — Aug vs July per-platform reach
-    5. Content taxonomy — August-only category breakdown (with the "other" honesty)
+    5. Content taxonomy — August-only category breakdown (how spread out the month was)
     6. Breakouts — top August posts across platforms
     7. The Read — takeaway + September ask
 
@@ -174,9 +174,11 @@ def slide_month_shift(prs, aug_posts, jul_posts):
     n_scandal_jul = sum(1 for p in jul_posts if p.get("_category") in scandal_grp)
     n_scandal_aug = sum(1 for p in aug_posts if p.get("_category") in scandal_grp)
 
-    n_other_jul = sum(1 for p in jul_posts if p.get("_category") == "other")
-    n_other_aug = sum(1 for p in aug_posts if p.get("_category") == "other")
-    pct_other_aug = (n_other_aug / max(1, v_aug)) * 100
+    aug_lanes = {p.get("_category") for p in aug_posts} - {"other", None}
+    aug_views_by_cat: dict[str, int] = {}
+    for p in aug_posts:
+        aug_views_by_cat[p.get("_category")] = aug_views_by_cat.get(p.get("_category"), 0) + int(p.get("view_count") or 0)
+    top_cat_share = (max(aug_views_by_cat.values(), default=0) / max(1, views_aug)) * 100
 
     shifts = [
         ("Total reach",       views_jul, views_aug, PALETTE["cherry"],
@@ -206,13 +208,13 @@ def slide_month_shift(prs, aug_posts, jul_posts):
                  sub, size=9, color=PALETTE["muted"])
         y += 1.4
 
-    # The "other = 57%" honesty card
+    # The spread card — no single lane carried the month.
     add_rect(slide, 7.0, 6.6, 5.6, 0.9, PALETTE["soft"])
     add_rect(slide, 7.0, 6.6, 0.08, 0.9, PALETTE["muted"])
     add_text(slide, 7.25, 6.7, 5.2, 0.3,
              "THE EXPLORATION SIGNAL", size=10, color=PALETTE["muted"], bold=True)
     add_text(slide, 7.25, 7.0, 5.2, 0.5,
-             f"{n_other_aug} of {v_aug} posts ({pct_other_aug:.0f}%) landed in \"other\" — no defined pillar.",
+             f"{len(aug_lanes)} different lanes got posts — the biggest carried only {top_cat_share:.0f}% of views.",
              size=11, color=PALETTE["ink"], bold=True)
 
     slide_footer_takeaway(slide,
@@ -269,11 +271,11 @@ def slide_platform_growth(prs, snaps):
 
 
 def slide_categories_august(prs, aug_posts):
-    """August category breakdown — including the 'other = 57%' honesty."""
+    """August category breakdown — how spread out the month was."""
     slide = slide_new(prs)
     slide_header(slide, "Content taxonomy",
                  "What August looked like",
-                 "Average views per post by category. The show explored — most posts didn't map to a defined pillar.")
+                 "Average views per post by category. The show explored — reach spread across many lanes instead of one pillar.")
 
     buckets = group_by_category(aug_posts)
 
@@ -316,6 +318,11 @@ def slide_categories_august(prs, aug_posts):
         "brand_growth":                  ("Brand Growth",           PALETTE["blush"]),
         "community_events":              ("Community Events",       PALETTE["ink"]),
         "community_local":               ("Community Local",        PALETTE["ink"]),
+        "city_governance":               ("City Hall & Civic",      PALETTE["navy"]),
+        "state_policy":                  ("State Policy",           PALETTE["navy"]),
+        "downtown_nightlife_safety":     ("Downtown Nightlife",     PALETTE["cherry"]),
+        "sports":                        ("Sports",                 PALETTE["muted"]),
+        "life_lessons":                  ("Leadership & Life",      PALETTE["sky"]),
         "other":                         ("Other (unmapped)",       PALETTE["muted"]),
     }
 
@@ -339,8 +346,9 @@ def slide_categories_august(prs, aug_posts):
                  f"{s['count']} posts · {s['total']:,} total views",
                  size=9, color=PALETTE["ink"])
 
+    top3 = ", ".join(label_map.get(s["cat"], (s["cat"].title(), None))[0] for s in top[:3])
     slide_footer_takeaway(slide,
-        "Food + Community Local kept working at July-comparable per-post reach. The taxonomy needs new tags to catch what \"other\" actually was.")
+        f"{top3} led August. Sports, City Hall and State Policy showed up as real lanes — the month spread out rather than drifted.")
 
 
 def slide_top_posts_august(prs, aug_posts):
@@ -430,9 +438,14 @@ def slide_takeaway(prs, jul_posts, aug_posts, since_june_posts):
                         {"trujillo_scandal", "lisette_scandal", "council_chaos",
                          "ai_fake_news", "ice_immigration"})
 
+    jul_total = sum(int(p.get('view_count') or 0) for p in jul_posts)
+    aug_total = sum(int(p.get('view_count') or 0) for p in aug_posts)
+    reach_delta = (aug_total - jul_total) / jul_total * 100 if jul_total else 0
+    n_lanes = len({p.get("_category") for p in aug_posts} - {"other", None})
+
     bullets = [
         f"July posts: {len(jul_posts)}  →  August posts: {len(aug_posts)} (volume mostly held)",
-        f"Total reach softened −67% — {sum(int(p.get('view_count') or 0) for p in jul_posts):,} → {sum(int(p.get('view_count') or 0) for p in aug_posts):,} views",
+        f"Total reach softened {reach_delta:+.0f}% — {jul_total:,} → {aug_total:,} views",
         f"#1 August post: [{top_plat}] {fmt_int(top_views)} views — \"{top_title}\"",
         f"Strongest lane (excl. \"other\"): {best_cat_label} — {best_cat_count} posts, {fmt_int(best_cat_views)} total views",
         f"Highest avg reach by platform: {strongest_plat} (unusual — Facebook led in August)",
@@ -453,7 +466,7 @@ def slide_takeaway(prs, jul_posts, aug_posts, since_june_posts):
              "August was intentional exploration. No scandal chased, no viral event to ride. "
              "The reels grind held, the catalog grew, and food + community lanes kept per-post "
              "reach comparable to July. The pillar to reclaim in September isn't necessarily "
-             "heat — it's any pillar. 57% \"other\" means the show drifted without a spine.",
+             f"heat — it's any pillar. Posts spread across {n_lanes} lanes with none carrying the month.",
              size=13, color=PALETTE["cream"])
 
     for i, b in enumerate(bullets):

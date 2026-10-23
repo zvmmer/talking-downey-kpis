@@ -229,6 +229,13 @@ def slide_categories_july(prs, july_posts):
         "brand_growth":                  ("Brand Growth",           PALETTE["blush"]),
         "community_events":              ("Community Events",       PALETTE["ink"]),
         "community_local":               ("Community Local",        PALETTE["ink"]),
+        "military_service":              ("Military Service",       PALETTE["gold"]),
+        "legislation_policy_watch":      ("Legislation Watch",      PALETTE["navy"]),
+        "city_governance":               ("City Hall & Civic",      PALETTE["navy"]),
+        "state_policy":                  ("State Policy",           PALETTE["navy"]),
+        "downtown_nightlife_safety":     ("Downtown Nightlife",     PALETTE["cherry"]),
+        "sports":                        ("Sports",                 PALETTE["muted"]),
+        "life_lessons":                  ("Leadership & Life",      PALETTE["sky"]),
         "other":                         ("Other",                  PALETTE["muted"]),
     }
 
