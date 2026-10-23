@@ -12,25 +12,25 @@
 
 | Views | Title | URL | seen |
 |---:|---|---|---|
-| 435 | From the Pentagon to LA Recruiting: Lt. Col. Jay De Jesus on Army Opportunity | Talking Downey | https://www.youtube.com/watch?v=bgkKPfphpIo | t40→t44 |
-| 401 | Setting the Record Straight: I Was Forced to Respond | https://www.youtube.com/watch?v=B9AEB8MOo1E | t0→t44 |
-| 300 | Carrie Uva for Downey City Council District 4 | Talking Downey | https://www.youtube.com/watch?v=WYJY7EB6p0A | t31→t44 |
-| 206 | Downey's Most Talked-About Council Race | Carrie Uva Interview | https://www.youtube.com/watch?v=UrJI0CuziSo | t9→t44 |
-| 199 | He Helped Fire Victims for Free. Now He's Running for Judge. | David DeJute on Talking Downey | https://www.youtube.com/watch?v=3Oiav_e6ho0 | t22→t44 |
-| 193 | He Ran Downey's Most Iconic Restaurant for 30 Years — Then Helped Rebuild the Whole Block | https://www.youtube.com/watch?v=7WGdmEp9yg8 | t9→t44 |
-| 176 | 145 Units Next to Your Backyard? Downey Said No. | https://www.youtube.com/watch?v=WCUv6melegY | t19→t44 |
-| 171 | AI Fake News: Who’s Behind It and Why Are They Doing It? | https://www.youtube.com/watch?v=P0HhmhP80qM | t9→t44 |
-| 162 | Donna Tryfman on Public Defense, Jury Trials, and Running for Judge | Talking Downey | https://www.youtube.com/watch?v=i1CMwrvVzHE | t10→t44 |
-| 154 | Mario Guerra Responds to a "Stolen Valor" Accusation From Lizette Rivera | Talking Downey | https://www.youtube.com/watch?v=BhJ6fi6j76I | t44→t44 |
-| 132 | Hector Sosa for Reelection in Downey City Council District 2 | Talking Downey | https://www.youtube.com/watch?v=lGPsew63wT0 | t31→t44 |
-| 128 | What's Up With That? Campaign Hypocrisy | Talking Downey | https://www.youtube.com/watch?v=in2GI-pAvK0 | t42→t44 |
-| 127 | John McKinney on 28 Years in the DA's Office and Running for LA City Attorney | Talking Downey | https://www.youtube.com/watch?v=inT7LVqkzF0 | t29→t44 |
-| 121 | Is the Army Worth It in 2026? | From Downey High to the Army (Tracy Duran) | https://www.youtube.com/watch?v=Er138bJFgPU | t14→t44 |
-| 121 | Downey's New Marquee Sign, Downtown Mischiefs, and the Email About the City Seal | Talking Downey | https://www.youtube.com/watch?v=TumcgZri5UA | t40→t44 |
-| 120 | Hector Sosa On His Reelection, Downtown Safety, and Downey's 14th Balanced Budget | Talking Downey | https://www.youtube.com/watch?v=NQYVFoZNRl8 | t41→t44 |
-| 71 | Mario Guerra Breaks Down All 14 California Ballot Propositions| Talking Downey | https://www.youtube.com/watch?v=jhyAaamxHAc | t43→t44 |
-| 56 | Thinking About Competing In A Pageant? | https://www.youtube.com/watch?v=XY_LNyqvW-s | t9→t44 |
-| 39 | Leadership Lessons From the LA Rams President & My UCLA Bruin Roots | https://www.youtube.com/watch?v=zPG3w8LITmw | t20→t44 |
+| 435 | From the Pentagon to LA Recruiting: Lt. Col. Jay De Jesus on Army Opportunity | Talking Downey | https://www.youtube.com/watch?v=bgkKPfphpIo | t40→t45 |
+| 401 | Setting the Record Straight: I Was Forced to Respond | https://www.youtube.com/watch?v=B9AEB8MOo1E | t0→t45 |
+| 300 | Carrie Uva for Downey City Council District 4 | Talking Downey | https://www.youtube.com/watch?v=WYJY7EB6p0A | t31→t45 |
+| 206 | Downey's Most Talked-About Council Race | Carrie Uva Interview | https://www.youtube.com/watch?v=UrJI0CuziSo | t9→t45 |
+| 199 | He Helped Fire Victims for Free. Now He's Running for Judge. | David DeJute on Talking Downey | https://www.youtube.com/watch?v=3Oiav_e6ho0 | t22→t45 |
+| 193 | He Ran Downey's Most Iconic Restaurant for 30 Years — Then Helped Rebuild the Whole Block | https://www.youtube.com/watch?v=7WGdmEp9yg8 | t9→t45 |
+| 176 | 145 Units Next to Your Backyard? Downey Said No. | https://www.youtube.com/watch?v=WCUv6melegY | t19→t45 |
+| 171 | AI Fake News: Who’s Behind It and Why Are They Doing It? | https://www.youtube.com/watch?v=P0HhmhP80qM | t9→t45 |
+| 162 | Donna Tryfman on Public Defense, Jury Trials, and Running for Judge | Talking Downey | https://www.youtube.com/watch?v=i1CMwrvVzHE | t10→t45 |
+| 154 | Mario Guerra Responds to a "Stolen Valor" Accusation From Lizette Rivera | Talking Downey | https://www.youtube.com/watch?v=BhJ6fi6j76I | t44→t45 |
+| 132 | Hector Sosa for Reelection in Downey City Council District 2 | Talking Downey | https://www.youtube.com/watch?v=lGPsew63wT0 | t31→t45 |
+| 128 | What's Up With That? Campaign Hypocrisy | Talking Downey | https://www.youtube.com/watch?v=in2GI-pAvK0 | t42→t45 |
+| 127 | John McKinney on 28 Years in the DA's Office and Running for LA City Attorney | Talking Downey | https://www.youtube.com/watch?v=inT7LVqkzF0 | t29→t45 |
+| 121 | Is the Army Worth It in 2026? | From Downey High to the Army (Tracy Duran) | https://www.youtube.com/watch?v=Er138bJFgPU | t14→t45 |
+| 121 | Downey's New Marquee Sign, Downtown Mischiefs, and the Email About the City Seal | Talking Downey | https://www.youtube.com/watch?v=TumcgZri5UA | t40→t45 |
+| 120 | Hector Sosa On His Reelection, Downtown Safety, and Downey's 14th Balanced Budget | Talking Downey | https://www.youtube.com/watch?v=NQYVFoZNRl8 | t41→t45 |
+| 71 | Mario Guerra Breaks Down All 14 California Ballot Propositions| Talking Downey | https://www.youtube.com/watch?v=jhyAaamxHAc | t43→t45 |
+| 56 | Thinking About Competing In A Pageant? | https://www.youtube.com/watch?v=XY_LNyqvW-s | t9→t45 |
+| 39 | Leadership Lessons From the LA Rams President & My UCLA Bruin Roots | https://www.youtube.com/watch?v=zPG3w8LITmw | t20→t45 |
 | 8 | Leadership Lessons From the LA Rams President & + Being a Life Long Bruin | https://www.youtube.com/watch?v=V-wi0e62VN8 | t19→t19 |
 | — | Graffiti Hotline: Report and Remove Tagging FAST! #shorts | https://www.youtube.com/watch?v=Y07bhdwtRGA | t9→t9 |
 
@@ -45,35 +45,35 @@
 | 13,600 | Mama Lu's is coming to Downey! Asian community favorite, famous for their tenderloin. Get ready for authentic flavors! # | https://www.tiktok.com/@talkingdowney/video/7652501536588827917 | t9→t9 |
 | 9,839 | Grew up in Huntington Park and still own property there. The city's o... | https://www.tiktok.com/@talkingdowney/video/7649533097112898830 | t3→t4 |
 | 8,352 | Pop's Wings just opened and it's a must-try! Their pastrami sandwich with sweet potato fries is a game-changer. #Foodie | https://www.tiktok.com/@talkingdowney/video/7665027894363639054 | t14→t18 |
-| 6,529 | Downey residents want diverse dining and nightlife, but it needs to be responsible. Addressing concerns raised on social | https://www.tiktok.com/@talkingdowney/video/7693971893866597646 | t41→t44 |
+| 6,530 | Downey residents want diverse dining and nightlife, but it needs to be responsible. Addressing concerns raised on social | https://www.tiktok.com/@talkingdowney/video/7693971893866597646 | t41→t45 |
 | 6,053 | World Cup profits hit $11 billion for FIFA, potentially reaching $13 ... | https://www.tiktok.com/@talkingdowney/video/7650926711223209229 | t4→t4 |
 | 4,301 | Fake pages are using AI videos and stealing content from the Downey Beat! They plagiarized a 20-year-old photo for their | https://www.tiktok.com/@talkingdowney/video/7655750057278426381 | t9→t9 |
 | 4,148 | Downtown Downey sushi spot alert! Starfish Sushi's bento box lunch is a must-try – seriously, you get SO much delicious | https://www.tiktok.com/@talkingdowney/video/7668367723398843662 | t17→t21 |
 | 3,520 | Downey is a built-out city, but Sacramento requires us to build 6,100 new homes. Local officials resent state mandates o | https://www.tiktok.com/@talkingdowney/video/7672447789200149774 | t18→t25 |
 | 3,346 | Downey's food scene is wild! Porto's, pho, Mongolian BBQ, Waba Grill, poke, and Starfish Sushi - all within steps. Decis | https://www.tiktok.com/@talkingdowney/video/7652099785448574221 | t9→t9 |
-| 2,972 | Downey's reputation is on the line! Property owners, step up and keep our streets safe. We don't want to be known for fi | https://www.tiktok.com/@talkingdowney/video/7692208125880864014 | t41→t44 |
+| 2,972 | Downey's reputation is on the line! Property owners, step up and keep our streets safe. We don't want to be known for fi | https://www.tiktok.com/@talkingdowney/video/7692208125880864014 | t41→t45 |
 | 2,900 | My Home Chinese food review: Mongolian beef, dumplings, orange chicken, and the shrimp with walnut are AMAZING. Highly r | https://www.tiktok.com/@talkingdowney/video/7669943807554751758 | t17→t23 |
 | 2,709 | High school grad? College wasn't the move. Impatient and needed cash, so the Army recruiter's office became history. #Ar | https://www.tiktok.com/@talkingdowney/video/7668089090386054413 | t17→t21 |
 | 2,623 | Buy one get one half off Vietnamese coffee? Yes please! This small business has the perfect pick-me-up. Sweet but not to | https://www.tiktok.com/@talkingdowney/video/7681726954592095501 | t29→t40 |
 | 2,555 | Chaos in council chambers! Yelling, police escort, and a final warnin... | https://www.tiktok.com/@talkingdowney/video/7649232184737369357 | t3→t4 |
 | 2,458 | Voting is personal, but this tax-increasing Measure ER? It's a hard N... | https://www.tiktok.com/@talkingdowney/video/7646154480542698766 | t3→t4 |
 | 2,297 | Downy's best breakfast & lunch spot, Poached! Fresh ingredients, amazing Benedicts, and tasty omelets. You have to try i | https://www.tiktok.com/@talkingdowney/video/7667996806277598478 | t17→t21 |
-| 2,269 | UCLA forever! Lifetime member since the 80s, and yes, the mixed marriage (wife USC grad) is going strong. Can't wait for | https://www.tiktok.com/@talkingdowney/video/7675509807876427021 | t21→t44 |
+| 2,269 | UCLA forever! Lifetime member since the 80s, and yes, the mixed marriage (wife USC grad) is going strong. Can't wait for | https://www.tiktok.com/@talkingdowney/video/7675509807876427021 | t21→t45 |
 | 2,205 | Responding to your yapping, Downey! Big things are happening. This is... | https://www.tiktok.com/@talkingdowney/video/7649093006326271245 | t0→t8 |
-| 2,162 | From Pharaoh's at Stonewood Mall to coaching DJAA, this community's been my life. Even fooled a parent into thinking my | https://www.tiktok.com/@talkingdowney/video/7694065565085781262 | t41→t44 |
+| 2,162 | From Pharaoh's at Stonewood Mall to coaching DJAA, this community's been my life. Even fooled a parent into thinking my | https://www.tiktok.com/@talkingdowney/video/7694065565085781262 | t41→t45 |
 | 2,146 | Is this a role model or a leader? One candidate has a questionable social media presence and no community involvement. T | https://www.tiktok.com/@talkingdowney/video/7685533703505825038 | t34→t41 |
 | 2,125 | Council members fined thousands for campaign finance violations. Corr... | https://www.tiktok.com/@talkingdowney/video/7649597094340087053 | t3→t4 |
 | 2,075 | Downey Pizza Company's pastrami pizza is a legendary secret! Used to order it during council meetings as mayor. It's a m | https://www.tiktok.com/@talkingdowney/video/7667623973504421134 | t17→t21 |
 | 2,055 | From hardcore gang cases to murder trials, this judge has seen it all... | https://www.tiktok.com/@talkingdowney/video/7646160480758697230 | t3→t4 |
 | 1,941 | Porto's secrets revealed! Try the chorizo and egg on Cuban bread or their amazing frita sandwich. You won't regret it. # | https://www.tiktok.com/@talkingdowney/video/7667252428076633358 | t17→t20 |
-| 1,902 | Costco investment = wise move for Downey! Securing $3-3.5M yearly revenue for better services and quality of life. That | https://www.tiktok.com/@talkingdowney/video/7696221957452254478 | t42→t44 |
+| 1,902 | Costco investment = wise move for Downey! Securing $3-3.5M yearly revenue for better services and quality of life. That | https://www.tiktok.com/@talkingdowney/video/7696221957452254478 | t42→t45 |
 | 1,879 | Woman interrupts council meeting, screams at mayor. He warns her to sit down or be removed. She doubles down, gets eject | https://www.tiktok.com/@talkingdowney/video/7684322684624309518 | t33→t40 |
 | 1,745 | Bottle service gone wrong: Fights erupting on the streets after clubs close. It's a dangerous cycle repeating itself. #N | https://www.tiktok.com/@talkingdowney/video/7692115221871152398 | t41→t43 |
 | 1,480 | Politicians' promises often fall short. Real change needs honesty & e... | https://www.tiktok.com/@talkingdowney/video/7646481393416965389 | t0→t8 |
 | 1,457 | FIFA watch parties are coming to Downey! Join the city on June 20th a... | https://www.tiktok.com/@talkingdowney/video/7650988634283216141 | t4→t4 |
 | 1,363 | Nara Thai is an amazing family-owned gem on Firestone. Get the Panang curry and sticky mango rice – you won't regret it! | https://www.tiktok.com/@talkingdowney/video/7668736692991347981 | t17→t22 |
 | 1,306 | Championship game watch party! Downey Ave closed for the July 19th finals. Food, family fun, and soccer vibes all day! # | https://www.tiktok.com/@talkingdowney/video/7659832233829747982 | t9→t16 |
-| 1,287 | Politics is my show, election season is coming. I'll break down propositions & city races. Tune in to hear my take and b | https://www.tiktok.com/@talkingdowney/video/7694435075189902606 | t41→t44 |
+| 1,287 | Politics is my show, election season is coming. I'll break down propositions & city races. Tune in to hear my take and b | https://www.tiktok.com/@talkingdowney/video/7694435075189902606 | t41→t45 |
 | 1,278 | UCLA wins mean pastrami from The Hat! Last year was tough, but the tradition is back. Nothing beats it after a victory. | https://www.tiktok.com/@talkingdowney/video/7675787777241402637 | t22→t30 |
 | 1,274 | Downtown Downey's hidden gem: La Chula Mexican Food! Tried their amazing burrito with shrimp and carne asada. Tart green | https://www.tiktok.com/@talkingdowney/video/7669851542584839438 | t17→t23 |
 | 1,233 | Fake news spreading like wildfire! Married 42 years, never seen a stripper or cocaine. Laughing it off, but the rumors h | https://www.tiktok.com/@talkingdowney/video/7656863614401252622 | t9→t9 |
@@ -109,27 +109,27 @@
 | 706 | Podcast host fuels division, talks down on women, and community leaders. Their own evidence shows yelling and being esco | https://www.tiktok.com/@talkingdowney/video/7656121880113466638 | t9→t9 |
 | 699 | California lost billions in federal funding because Newsom and Bonta missed their legal deadline. Their lawsuit was with | https://www.tiktok.com/@talkingdowney/video/7678477730408566047 | t29→t34 |
 | 696 | Downey's downtown is booming with new Asian-style restaurants! As a p... | https://www.tiktok.com/@talkingdowney/video/7651667629609848077 | t4→t4 |
-| 675 | Lizette Rivera: A wolf in sheep's clothing? Campaign mailer highlights hypocrisy and inconsistencies, showing her escort | https://www.tiktok.com/@talkingdowney/video/7695849311183179021 | t42→t44 |
+| 675 | Lizette Rivera: A wolf in sheep's clothing? Campaign mailer highlights hypocrisy and inconsistencies, showing her escort | https://www.tiktok.com/@talkingdowney/video/7695849311183179021 | t42→t45 |
 | 672 | FIFA: More like a money-making machine than a sport. Even the mayor s... | https://www.tiktok.com/@talkingdowney/video/7650555631396605198 | t3→t4 |
 | 672 | Supporting Downey's food scene! 🍽️ From Porto's cravings to local gems, I'm your official taste tester. What Downey eats | https://www.tiktok.com/@talkingdowney/video/7652875020187831565 | t9→t9 |
 | 654 | World Cup excitement is building, but let's hope the celebrations stay safe and don't cause chaos like in the past. Seei | https://www.tiktok.com/@talkingdowney/video/7659554437345709326 | t9→t16 |
 | 643 | Public art is transforming our downtown! This beautification project, inspired by initiatives from 15 years ago, is a pr | https://www.tiktok.com/@talkingdowney/video/7691526740111396110 | t40→t43 |
 | 641 | City seal jacket on a bike ride? Bold move. Mr. Trujillo might not ap... | https://www.tiktok.com/@talkingdowney/video/7650244431190183181 | t3→t4 |
-| 639 | Stop signs are crucial, especially in busy residential areas near schools. Even my 20-year-old son noticed a new one on | https://www.tiktok.com/@talkingdowney/video/7693692651815603470 | t41→t44 |
+| 639 | Stop signs are crucial, especially in busy residential areas near schools. Even my 20-year-old son noticed a new one on | https://www.tiktok.com/@talkingdowney/video/7693692651815603470 | t41→t45 |
 | 634 | 🏡 At the public hearing, 30 people spoke about the proposed Downey condo project. According to the meeting, 29 residents | https://www.tiktok.com/@talkingdowney/video/7671426883757559053 | t17→t25 |
 | 632 | Emotional outburst vs. rational leadership. This leader's temper tantrum led to removal from commissions and rejected no | https://www.tiktok.com/@talkingdowney/video/7685437456640003341 | t34→t41 |
 | 620 | The 41st District is here! Meet Hector De La Torre, your local busine... | https://www.tiktok.com/@talkingdowney/video/7646156918972501261 | t3→t4 |
 | 614 | 21 miles of roads fixed! Bipartisan council working together for the city. Disqualifying behavior from others is obvious | https://www.tiktok.com/@talkingdowney/video/7687012834730953998 | t36→t43 |
 | 590 | Predatory pricing vs. rent gouging: The law says one thing, but reality hits different. See how it plays out. #Economics | https://www.tiktok.com/@talkingdowney/video/7676252022533934349 | t22→t31 |
 | 570 | Answer your juror summons! You'd want a jury like you if you needed one. Help the justice system work. #JuryDuty #CivicD | https://www.tiktok.com/@talkingdowney/video/7662800637523987725 | t10→t16 |
-| 547 | Prop 2: Lipstick on a pig. Sounds responsible, but lets politicians spend 'rainy day' funds on anything they declare an | https://www.tiktok.com/@talkingdowney/video/7697404493218008334 | t44→t44 |
+| 547 | Prop 2: Lipstick on a pig. Sounds responsible, but lets politicians spend 'rainy day' funds on anything they declare an | https://www.tiktok.com/@talkingdowney/video/7697404493218008334 | t44→t45 |
 | 541 | Carrie Uva for Downey City Council District 4! Focused on public safety, quality of life, balanced budget, and supportin | https://www.tiktok.com/@talkingdowney/video/7655471825631169806 | t9→t9 |
 | 523 | Downey Avenue cleaner than before! Graffiti gone in 24 hours if you report it. See how easy it is! #CommunityAction #Gra | https://www.tiktok.com/@talkingdowney/video/7661316879008468238 | t9→t16 |
 | 519 | Sacramento's mandates are changing housing density near transit like the 5 Freeway. The planning commission faces a toug | https://www.tiktok.com/@talkingdowney/video/7672819507194285326 | t18→t25 |
 | 516 | Carrie's reputation precedes her! Praised for her wills and trusts work with seniors, she's the go-to for families. #Est | https://www.tiktok.com/@talkingdowney/video/7654357791720623374 | t9→t9 |
 | 504 | World Cup economics: It's not what you think. Substitution, crowding ... | https://www.tiktok.com/@talkingdowney/video/7650631414202813710 | t3→t4 |
-| 501 | Downey Chamber of Commerce ambassador removed for unbecoming conduct. Code of ethics updated after unauthorized city log | https://www.tiktok.com/@talkingdowney/video/7695918387750243598 | t42→t44 |
-| 501 | Hypocrisy alert! A candidate claims to be anti-MAGA but worked hard for controversial figures. Actions speak louder than | https://www.tiktok.com/@talkingdowney/video/7696940954510560526 | t43→t44 |
+| 501 | Downey Chamber of Commerce ambassador removed for unbecoming conduct. Code of ethics updated after unauthorized city log | https://www.tiktok.com/@talkingdowney/video/7695918387750243598 | t42→t45 |
+| 501 | Hypocrisy alert! A candidate claims to be anti-MAGA but worked hard for controversial figures. Actions speak louder than | https://www.tiktok.com/@talkingdowney/video/7696940954510560526 | t43→t45 |
 | 494 | Founding Fathers knew signing Declaration of Independence was a death warrant. This 1,337-word draft holds amazing eloqu | https://www.tiktok.com/@talkingdowney/video/7658346836725337357 | t9→t14 |
 | 486 | When integrity trumps politics. Appointing a Democrat? Apparently, it's not the end of the world after all. #Politics #I | https://www.tiktok.com/@talkingdowney/video/7655100438512979214 | t9→t9 |
 | 485 | Forget what divides us, sports unite! Catch the World Cup excitement, support local spots, and bring friends. It's a vib | https://www.tiktok.com/@talkingdowney/video/7659925565754903822 | t9→t16 |
@@ -147,7 +147,7 @@
 | 456 | Asking politicians tough questions about high-speed rail and taxpayer money is crucial. Be informed and stay tuned for m | https://www.tiktok.com/@talkingdowney/video/7678849348389621006 | t29→t34 |
 | 451 | Downey's District 2 has an amazing leader seeking re-election! Hector Sosa kept the city stable with his leadership. You | https://www.tiktok.com/@talkingdowney/video/7683672581941021965 | t32→t40 |
 | 450 | Downey's choice is clear: stability and respect. Supporting Carrie Uva for a community that thrives on integrity. Values | https://www.tiktok.com/@talkingdowney/video/7685899370268478733 | t34→t41 |
-| 450 | 25 years of service, 9 boards, and zero paychecks. A look at the commitment to building community and supporting local l | https://www.tiktok.com/@talkingdowney/video/7699259739699481870 | t44→t44 |
+| 450 | 25 years of service, 9 boards, and zero paychecks. A look at the commitment to building community and supporting local l | https://www.tiktok.com/@talkingdowney/video/7699259739699481870 | t44→t45 |
 | 446 | Rams going all in again! Trading top picks for established stars. Is this their Super Bowl year? #LARams #NFL #Football | https://www.tiktok.com/@talkingdowney/video/7674025782229863693 | t20→t25 |
 | 442 | 15 years in the making! The gateway sign is finally here, funded by arts and public funds. No police or general funds us | https://www.tiktok.com/@talkingdowney/video/7660679089056959758 | t9→t16 |
 | 439 | Downey now has GYU Pho! Been there 3 times in 3 weeks, and the lomo s... | https://www.tiktok.com/@talkingdowney/video/7651761183183129870 | t4→t4 |
@@ -159,22 +159,22 @@
 | 420 | Controversial group's radical ideas revealed! Their core beliefs include defunding police, closing jails, and overhaulin | https://www.tiktok.com/@talkingdowney/video/7679189935177436430 | t29→t35 |
 | 413 | Mr. Trujillo mentions about a seal amidst unauthorized merchandise. I... | https://www.tiktok.com/@talkingdowney/video/7650185144531242254 | t3→t4 |
 | 412 | Social media growth is exponential! Over 100k views total, with 54k+ on one platform alone. We're crushing it! #SocialMe | https://www.tiktok.com/@talkingdowney/video/7660202569985297678 | t9→t16 |
-| 412 | Hypocrisy is rampant. Being a registered Republican doesn't automatically make you MAGA or a Trumpster. Facts over lies, | https://www.tiktok.com/@talkingdowney/video/7696662136763829517 | t43→t44 |
+| 412 | Hypocrisy is rampant. Being a registered Republican doesn't automatically make you MAGA or a Trumpster. Facts over lies, | https://www.tiktok.com/@talkingdowney/video/7696662136763829517 | t43→t45 |
 | 410 | Remember Prop 1A in 2008? We voted for a $9B high-speed rail. Now? The cost ballooned to over $200B! 🤯 #California #High | https://www.tiktok.com/@talkingdowney/video/7678387062990507294 | t29→t33 |
 | 409 | We fought for Downey residents against the Honda World Project. 6.5 hours later, the meeting finally ends. Exhausted but | https://www.tiktok.com/@talkingdowney/video/7673190970095144205 | t20→t25 |
-| 407 | Leadership isn't just for those who've seen combat. Military training builds discipline, values, and teamwork that last | https://www.tiktok.com/@talkingdowney/video/7694807459721973006 | t42→t44 |
+| 407 | Leadership isn't just for those who've seen combat. Military training builds discipline, values, and teamwork that last | https://www.tiktok.com/@talkingdowney/video/7694807459721973006 | t42→t45 |
 | 404 | From enlistment to love story: a Filipino family's journey to the US, shaped by military service and a high school roman | https://www.tiktok.com/@talkingdowney/video/7691743608461987085 | t40→t43 |
-| 402 | Residents just want to be heard. Listening and guiding them shows you're there to help. Found out why a street wasn't re | https://www.tiktok.com/@talkingdowney/video/7693599862578875662 | t41→t44 |
+| 402 | Residents just want to be heard. Listening and guiding them shows you're there to help. Found out why a street wasn't re | https://www.tiktok.com/@talkingdowney/video/7693599862578875662 | t41→t45 |
 | 395 | Local politics getting wild! Accusations flying about MAGA, even against registered Democrats. Stay informed on who's *r | https://www.tiktok.com/@talkingdowney/video/7686272016218901774 | t35→t42 |
 | 394 | Paying higher taxes? What's the point? Seems like a lot of hoops to jump through just to get things done. Lots of patien | https://www.tiktok.com/@talkingdowney/video/7660575198927768845 | t9→t16 |
 | 394 | High schoolers need to know about the 250+ career paths available! Military service can pay for your education AND help | https://www.tiktok.com/@talkingdowney/video/7691096834961460494 | t40→t43 |
-| 386 | Publicly financing political campaigns? A dumb idea. It'll cost millions, not thousands. People give money if they belie | https://www.tiktok.com/@talkingdowney/video/7698516243346705678 | t44→t44 |
+| 386 | Publicly financing political campaigns? A dumb idea. It'll cost millions, not thousands. People give money if they belie | https://www.tiktok.com/@talkingdowney/video/7698516243346705678 | t44→t45 |
 | 384 | 1968: A year of stark divides. Hippie or not, pro-gov or revolutionary? The assassination of MLK & RFK, LBJ stepping dow | https://www.tiktok.com/@talkingdowney/video/7658439131625819405 | t9→t14 |
 | 379 | FIFA's a money-making machine, but for local folks in LA, sharing tho... | https://www.tiktok.com/@talkingdowney/video/7651297600431197453 | t4→t4 |
 | 377 | We're the 10th largest city with our own police, fire, and school district! Great working relationship with the school b | https://www.tiktok.com/@talkingdowney/video/7685807229563424013 | t34→t41 |
 | 372 | DA experience: murder, sexual assault, child abuse cases. Now in mana... | https://www.tiktok.com/@talkingdowney/video/7644300961694895373 | t3→t3 |
 | 370 | Grandma was scared when I joined, but seeing my accomplishments changed her mind. Family support means everything. #Fami | https://www.tiktok.com/@talkingdowney/video/7667716714603367694 | t17→t21 |
-| 370 | Hypocrisy alert: MAGA is thrown around so much, even against those with no ties. They use Trump's name 48 times to win v | https://www.tiktok.com/@talkingdowney/video/7696569634928987406 | t43→t44 |
+| 370 | Hypocrisy alert: MAGA is thrown around so much, even against those with no ties. They use Trump's name 48 times to win v | https://www.tiktok.com/@talkingdowney/video/7696569634928987406 | t43→t45 |
 | 362 | Billionaire tax in California? Analysis says it'll cost hundreds of millions and billionaires might just leave. Even New | https://www.tiktok.com/@talkingdowney/video/7665863095457205517 | t15→t18 |
 | 358 | Defense attorney's unique courtroom perspective: building trust with everyone for a fair playing field. Bringing dignity | https://www.tiktok.com/@talkingdowney/video/7663172836902604046 | t10→t16 |
 | 358 | Every day, 5-7 people die on LA streets. This ongoing crisis reveals a profound failure in local government's response t | https://www.tiktok.com/@talkingdowney/video/7679128812235263245 | t29→t34 |
@@ -183,25 +183,25 @@
 | 354 | The US offers so much, even with its flaws. Reflect on the beauty of this country and what it represents. #USA #America | https://www.tiktok.com/@talkingdowney/video/7658470841176313102 | t9→t14 |
 | 352 | Running a restaurant means always having a smile on, no matter what's falling apart behind the scenes. The pressure to b | https://www.tiktok.com/@talkingdowney/video/7661036518546345229 | t9→t16 |
 | 350 | Biggest misconception about public defenders? They don't care. It couldn't be further from the truth. #PublicDefender #L | https://www.tiktok.com/@talkingdowney/video/7662151295205231886 | t10→t16 |
-| 350 | Military jargon is a different language! Gotta switch it up to talk to students and parents. Transparency is key, and it | https://www.tiktok.com/@talkingdowney/video/7693323173785259277 | t41→t44 |
+| 350 | Military jargon is a different language! Gotta switch it up to talk to students and parents. Transparency is key, and it | https://www.tiktok.com/@talkingdowney/video/7693323173785259277 | t41→t45 |
 | 347 | Bridging cultures: The secret weapon against tech's dark side and a p... | https://www.tiktok.com/@talkingdowney/video/7646166793605647630 | t0→t8 |
 | 343 | Ladies, silence your doubts! Your time is NOW. Take the leap of faith and embrace your individuality. California is root | https://www.tiktok.com/@talkingdowney/video/7657698563538881805 | t9→t13 |
-| 341 | Serving on city council means sacrificing 25-30 hours a week with no compensation. We make tough decisions for the city' | https://www.tiktok.com/@talkingdowney/video/7696290030645447949 | t42→t44 |
+| 341 | Serving on city council means sacrificing 25-30 hours a week with no compensation. We make tough decisions for the city' | https://www.tiktok.com/@talkingdowney/video/7696290030645447949 | t42→t45 |
 | 334 | So many impressive leaders from all sides are backing this candidate. It shows it doesn't matter about party lines in lo | https://www.tiktok.com/@talkingdowney/video/7686186861873728782 | t35→t41 |
 | 330 | Billions lost in federal funding due to missed obligations. The state is scrambling for new sources after November 2024. | https://www.tiktok.com/@talkingdowney/video/7678756096692997390 | t29→t34 |
 | 326 | Discover your inner strength through pageantry. It's a journey of self-discovery and unlocking abilities you never knew | https://www.tiktok.com/@talkingdowney/video/7657327452930198798 | t9→t12 |
 | 324 | Neighborhood watch groups stop crime. One group led to a speeding arrest, finding drugs and an illegal gun! #Neighborhoo | https://www.tiktok.com/@talkingdowney/video/7655018365185969422 | t9→t9 |
 | 321 | This project isn't working for residents. We need to build better housing with less density, improved safety, and smarte | https://www.tiktok.com/@talkingdowney/video/7673282499568618765 | t20→t25 |
-| 314 | Setting the record straight. Civilian service vs. stolen valor claims—here are the facts regarding the cemetery board an | https://www.tiktok.com/@talkingdowney/video/7699233721211194637 | t44→t44 |
+| 314 | Setting the record straight. Civilian service vs. stolen valor claims—here are the facts regarding the cemetery board an | https://www.tiktok.com/@talkingdowney/video/7699233721211194637 | t44→t45 |
 | 313 | From civil law to prosecution, this attorney brings a unique blend of... | https://www.tiktok.com/@talkingdowney/video/7646163844078783758 | t0→t8 |
 | 312 | Going through old boxes and found some amazing UCLA football memories! 🏈 From Troy Aikman MVP moments to unforgettable s | https://www.tiktok.com/@talkingdowney/video/7675416490362883342 | t21→t30 |
 | 310 | Legislative wins! Defended against a huge condo fee hike & pushed for HOA transparency. Major victories for buyers! #HOA | https://www.tiktok.com/@talkingdowney/video/7655379317249166606 | t9→t9 |
 | 302 | Guilty or not? Immaterial. Our justice system demands a vigorous defense for ALL. The government has power, but we ensur | https://www.tiktok.com/@talkingdowney/video/7662059298205306126 | t10→t16 |
 | 300 | Pico Rivera achievements and Congress dreams. Loyalty to the people, ... | https://www.tiktok.com/@talkingdowney/video/7646158357832666382 | t3→t4 |
 | 295 | Courtroom presence matters. Even during COVID, showing up in person was key. Zoom can't replace true courtroom engagemen | https://www.tiktok.com/@talkingdowney/video/7662892134902598925 | t10→t16 |
-| 294 | Prop 5 explained: why this ballot measure might take power away from voters during recall elections. Here is why it matt | https://www.tiktok.com/@talkingdowney/video/7698794718859218189 | t44→t44 |
+| 294 | Prop 5 explained: why this ballot measure might take power away from voters during recall elections. Here is why it matt | https://www.tiktok.com/@talkingdowney/video/7698794718859218189 | t44→t45 |
 | 292 | 85+ jury trials, 21 homicide cases. Experience seeing the criminal sy... | https://www.tiktok.com/@talkingdowney/video/7644624739121499405 | t3→t3 |
-| 283 | Caught an AI-generated hit piece in my office! Apparently, my 'Mayor's Corner' sign and an Army shirt mean I'm misrepres | https://www.tiktok.com/@talkingdowney/video/7694342776279878926 | t41→t44 |
+| 283 | Caught an AI-generated hit piece in my office! Apparently, my 'Mayor's Corner' sign and an Army shirt mean I'm misrepres | https://www.tiktok.com/@talkingdowney/video/7694342776279878926 | t41→t45 |
 | 275 | Served on Public Works for years, learning about our city's water wells and street projects. Now running to make a diffe | https://www.tiktok.com/@talkingdowney/video/7654637814868446477 | t9→t9 |
 | 275 | Did you know Chipotle has a secret menu? You can get a quesadilla with chicken, rice, and beans that's not on the regula | https://www.tiktok.com/@talkingdowney/video/7670593250150862094 | t17→t25 |
 | 268 | The NFL cheers for teams to be over .500? Higher draft picks for losing seasons. Some teams go all in. #NFL #Football #S | https://www.tiktok.com/@talkingdowney/video/7673623152240463118 | t20→t25 |
@@ -221,12 +221,12 @@
 | 224 | 100 jury trials? Try zero. And the DA with no trial experience... sound familiar? Leading 1000+ employees requires manag | https://www.tiktok.com/@talkingdowney/video/7679220843716578574 | t29→t35 |
 | 222 | Theater kid turned rock star, now a trial attorney. Finding joy in public service and client relationships. #TrialAttorn | https://www.tiktok.com/@talkingdowney/video/7663265320106216717 | t10→t16 |
 | 222 | From a tough childhood to city attorney: understanding life's struggles to serve the community. #CommunityLeader #Inspir | https://www.tiktok.com/@talkingdowney/video/7680240513177505037 | t29→t39 |
-| 220 | Prop 38: It sounds like a win for medical research, but the hidden strings attached make it a tough call. Why the skepti | https://www.tiktok.com/@talkingdowney/video/7699629789660941581 | t44→t44 |
-| 218 | Politicians use 'veterans' to push housing bonds, but less than 10% actually goes to them. Building housing is good, but | https://www.tiktok.com/@talkingdowney/video/7697311811615378702 | t44→t44 |
-| 214 | Downtown Downey's late-night scene is a concern, with businesses discussing solutions for issues like late-night service | https://www.tiktok.com/@talkingdowney/video/7697032230908005645 | t43→t44 |
+| 220 | Prop 38: It sounds like a win for medical research, but the hidden strings attached make it a tough call. Why the skepti | https://www.tiktok.com/@talkingdowney/video/7699629789660941581 | t44→t45 |
+| 218 | Politicians use 'veterans' to push housing bonds, but less than 10% actually goes to them. Building housing is good, but | https://www.tiktok.com/@talkingdowney/video/7697311811615378702 | t44→t45 |
+| 214 | Downtown Downey's late-night scene is a concern, with businesses discussing solutions for issues like late-night service | https://www.tiktok.com/@talkingdowney/video/7697032230908005645 | t43→t45 |
 | 213 | Serious crimes handled with fairness and hard calls. Saw discretion i... | https://www.tiktok.com/@talkingdowney/video/7646152932282338574 | t3→t4 |
 | 208 | They said it couldn't be done. Turned doubt into determination. Now l... | https://www.tiktok.com/@talkingdowney/video/7645051502465191181 | t3→t3 |
-| 208 | Recruiting operations are now exempt from social media policy! We can use platforms to get the message out. Let's capita | https://www.tiktok.com/@talkingdowney/video/7693228180076891406 | t41→t44 |
+| 208 | Recruiting operations are now exempt from social media policy! We can use platforms to get the message out. Let's capita | https://www.tiktok.com/@talkingdowney/video/7693228180076891406 | t41→t45 |
 | 206 | Prosecutor & Judge handling serious crimes with fairness. Made the ha... | https://www.tiktok.com/@talkingdowney/video/7644400271153581325 | t3→t3 |
 | 203 | He lost his high-profile cases after speaking out against the DA. Now handling misdemeanor cases. #LegalDrama #DAOffice | https://www.tiktok.com/@talkingdowney/video/7680612659791727885 | t29→t39 |
 | 195 | Target Crimes Division tackles everything from stalking to arson. These fires, often from homeless individuals seeking w | https://www.tiktok.com/@talkingdowney/video/7681446344300432653 | t29→t39 |
@@ -238,16 +238,16 @@
 | 178 | Exploring Downtown Downey's food scene! Found a great poke spot called Tapoke Poke at Downey Gateway. Assembly line styl | https://www.tiktok.com/@talkingdowney/video/7670222867035983118 | t17→t23 |
 | 171 | From conservative roots to judicial hopeful. This campaign trail is all about connection and understanding your concerns | https://www.tiktok.com/@talkingdowney/video/7678014827180166413 | t24→t33 |
 | 163 | Lived as a renter for 24 years, understanding the frustration of young people vs. friends buying second homes. Experienc | https://www.tiktok.com/@talkingdowney/video/7680983808207867150 | t29→t39 |
-| 162 | A 25 billion dollar plan to help middle-class homeowners, or an unnecessary government expense? The debate on housing bo | https://www.tiktok.com/@talkingdowney/video/7698887585837354254 | t44→t44 |
+| 162 | A 25 billion dollar plan to help middle-class homeowners, or an unnecessary government expense? The debate on housing bo | https://www.tiktok.com/@talkingdowney/video/7698887585837354254 | t44→t45 |
 | 160 | A City Attorney needs real-life experience, not just privilege. Look at my background, my work, and my pledge to YOU. Su | https://www.tiktok.com/@talkingdowney/video/7680335389332098317 | t29→t39 |
 | 154 | Using legal skills to help fire victims rebuild after disaster. It's about recovery, justice, and healing. #PublicServic | https://www.tiktok.com/@talkingdowney/video/7676160811580050702 | t22→t31 |
 | 151 | Hiring is key! Get buy-in by asking 'When can you have this done?' People commit best when they set their own deadlines. | https://www.tiktok.com/@talkingdowney/video/7675138189962513678 | t21→t29 |
 | 148 | Being a good judge means people walk away respecting the process, even if they don't agree with the outcome. It's about | https://www.tiktok.com/@talkingdowney/video/7676624062751313166 | t23→t32 |
-| 148 | True advocacy means putting grieving families first, not personal agendas. Transparency and compassion must remain the c | https://www.tiktok.com/@talkingdowney/video/7699539080094240013 | t44→t44 |
+| 148 | True advocacy means putting grieving families first, not personal agendas. Transparency and compassion must remain the c | https://www.tiktok.com/@talkingdowney/video/7699539080094240013 | t44→t45 |
 | 144 | Downey's property values are soaring & crime is dropping! Major street upgrades are happening. Big thanks to our stable | https://www.tiktok.com/@talkingdowney/video/7686920649473805581 | t36→t42 |
 | 143 | Integrity on the bench is key. A Harvard Law grad ready to apply law and facts without bias. Non-partisan, just justice. | https://www.tiktok.com/@talkingdowney/video/7678108403952110861 | t24→t33 |
-| 143 | My 'why' evolved from paying for college to serving as an officer, and then to finding new challenges in the military. I | https://www.tiktok.com/@talkingdowney/video/7694713342358850830 | t42→t44 |
-| 142 | Prop 3: a 'temporary' tax that keeps getting extended. It impacts earners making $300-$400k, adding nearly 4% and going | https://www.tiktok.com/@talkingdowney/video/7698425250542816526 | t44→t44 |
+| 143 | My 'why' evolved from paying for college to serving as an officer, and then to finding new challenges in the military. I | https://www.tiktok.com/@talkingdowney/video/7694713342358850830 | t42→t45 |
+| 142 | Prop 3: a 'temporary' tax that keeps getting extended. It impacts earners making $300-$400k, adding nearly 4% and going | https://www.tiktok.com/@talkingdowney/video/7698425250542816526 | t44→t45 |
 | 141 | Get the right people on your bus and the wrong ones off! Seats matter too. Always hire people better than you. #Business | https://www.tiktok.com/@talkingdowney/video/7675046156073733389 | t21→t25 |
 | 137 | Mother Teresa wasn't called to be successful, but to be faithful. True impact isn't measured by results, but by dedicati | https://www.tiktok.com/@talkingdowney/video/7675879835297647886 | t22→t30 |
 | 93 | Downey's new Korean BBQ is SO good, people are lining up out the door... | https://www.tiktok.com/@talkingdowney/video/7651815292657487117 | t4→t4 |
@@ -272,14 +272,14 @@
 | 3,965 | Following an outburst, she was removed as a Chamber of Commerce ambassador and rejected for another commission. Was it t | https://www.instagram.com/p/DdRqRiIjY4c/ | t34→t40 |
 | 3,805 | He admitted he messed up, but not for the reason you think. It wasn't just social media hate; it was emails too. He told | https://www.instagram.com/p/DZa2ZrjiGzO/ | t2→t7 |
 | 3,717 | Don't believe the fake rumors. Married 42 years, no strippers, no cocaine at my bachelor party. Just guys, beer, and my | https://www.instagram.com/p/DaLXEVJDWDb/ | t8→t9 |
-| 3,642 | ​What kind of conduct should we expect from those seeking public office? During a Downey City Council meeting, an unexpe | https://www.instagram.com/p/Dec6e4thpRt/ | t42→t44 |
+| 3,643 | ​What kind of conduct should we expect from those seeking public office? During a Downey City Council meeting, an unexpe | https://www.instagram.com/p/Dec6e4thpRt/ | t42→t45 |
 | 3,551 | Almost ran over a family. I got the license plate, checked on them. Turns out he's a Catholic deacon. You can't make thi | https://www.instagram.com/p/DaER_Nyjmef/ | t8→t9 |
 | 3,517 | From the Philippines to the US Air Force, a family story of service and new beginnings. High school choices led to unexp | https://www.instagram.com/p/Dd9YqmODM5g/ | t40→t42 |
 | 3,238 | Awarded the prestigious Olmsted Scholarship for its language immersion program. Studied abroad in Singapore, diving deep | https://www.instagram.com/p/Dd2UNEBE1EG/ | t40→t41 |
 | 3,200 | Lifelong Democrat, moderate. Focused on helping Downey, not politics. Endorsed by both parties because I get city busine | https://www.instagram.com/p/DZ5etOHEVU8/ | t6→t7 |
-| 2,899 | Serving in the military means leadership, teamwork, and discipline. Even without war, training builds camaraderie and de | https://www.instagram.com/p/DeSo4zQDIiJ/ | t42→t44 |
+| 2,899 | Serving in the military means leadership, teamwork, and discipline. Even without war, training builds camaraderie and de | https://www.instagram.com/p/DeSo4zQDIiJ/ | t42→t45 |
 | 2,848 | Responded to your yapping, Downey! This one's to answer the last two shows. Wouldn't have done it if you hadn't mentione | https://www.instagram.com/p/DZVb7CEk9EY/ | t0→t6 |
-| 2,689 | 20 years ago, my 'why' was just paying for college. Now, commissioned and deployed, I realized my 'why' evolved to servi | https://www.instagram.com/p/DeR_Aq9D4t7/ | t42→t44 |
+| 2,689 | 20 years ago, my 'why' was just paying for college. Now, commissioned and deployed, I realized my 'why' evolved to servi | https://www.instagram.com/p/DeR_Aq9D4t7/ | t42→t45 |
 | 2,502 | My goal: share who we are in the military and what we really do. It's not just shooting guns. I'm a Logistics Specialist | https://www.instagram.com/p/DbEpLbqExEC/ | t14→t18 |
 | 2,502 | This Vietnamese coffee is the perfect midday pick-me-up! Buy one, get one half off at Tea Leaf Co. Amazing taste, just t | https://www.instagram.com/p/Dc34VfRDcLw/ | t29→t39 |
 | 2,489 | Mayor asks gang members to fight ICE. Federal investigation. Public disgrace. A viral video brought down a city leader. | https://www.instagram.com/p/DZV5etnjJ5e/ | t1→t6 |
@@ -291,10 +291,10 @@
 | 2,072 | Heard of Downey Pizza Company's pastrami pizza? I've been eating it for years! Even ordered it during council sessions. | https://www.instagram.com/p/DbWCL69DXs6/ | t17→t20 |
 | 1,999 | A council member fined $13,000 for unreported campaign contributions. It's public record. This isn't new – Cudahy has el | https://www.instagram.com/p/DZY7e-_EVxh/ | t2→t7 |
 | 1,965 | Afraid to tell my grandparents I was joining. Signed the contract and shipped off weeks later. Now my grandma sees my ac | https://www.instagram.com/p/DbWqK3EDIvv/ | t17→t21 |
-| 1,921 | Downtown is a concern, with businesses struggling from late-night chaos. Solutions are being discussed, from earlier clo | https://www.instagram.com/p/DeiFx-kjXYQ/ | t43→t44 |
+| 1,921 | Downtown is a concern, with businesses struggling from late-night chaos. Solutions are being discussed, from earlier clo | https://www.instagram.com/p/DeiFx-kjXYQ/ | t43→t45 |
 | 1,869 | La Chula Mexican food, a favorite, is getting surrounded by Asian cuisine! A new Mongolian BBQ is replacing Tacos Con To | https://www.instagram.com/p/DZp4vPxiuaQ/ | t6→t7 |
 | 1,858 | From hardcore gang cases to high-profile death penalty trials, this judge has seen it all. Now, they handle the most ser | https://www.instagram.com/p/DZBFnkrAFRH/ | t0→t4 |
-| 1,788 | Downey, you deserve straight answers. Lissette Rivera is running for City Council District 4, and this video raises ques | https://www.instagram.com/p/DetPQGqvy-s/ | t44→t44 |
+| 1,788 | Downey, you deserve straight answers. Lissette Rivera is running for City Council District 4, and this video raises ques | https://www.instagram.com/p/DetPQGqvy-s/ | t44→t45 |
 | 1,738 | Addressing nightlife concerns in Downey with responsible solutions. Bringing together staff, PD, DDIA, and establishment | https://www.instagram.com/p/DeM2OD4Ha1N/ | t41→t43 |
 | 1,736 | Hector Sosa: a proven leader, not just a name. See the diverse crowd at his kickoff – educators, business leaders, frien | https://www.instagram.com/p/DdSS2BmiSe6/ | t34→t40 |
 | 1,702 | Community matters. We're fixing roads, working together. It's about our city, not running the country. Bipartisan counci | https://www.instagram.com/p/DdKi36iAZ4R/ | t33→t40 |
@@ -306,7 +306,7 @@
 | 1,546 | Hypocrisy alert: Criticizing downtown bars while holding kickoff events in them. Lissette Rivera's voting record shows i | https://www.instagram.com/p/DdZ_SdPFBZx/ | t35→t41 |
 | 1,522 | FIFA's World Cup generates billions in profit, making it a top sporting event. But at what cost? Vancouver faces over $7 | https://www.instagram.com/p/DZiJ5d1Co0p/ | t4→t7 |
 | 1,514 | A vigil for a victim turned into a quest for clout. Family & city held their own. Lissette Rivera hijacked the narrative | https://www.instagram.com/p/DdZV3JjCf0K/ | t35→t41 |
-| 1,483 | Costco is a wise investment for Downey, bringing in $3-3.5 million annually. This means more services and support for re | https://www.instagram.com/p/DecdeIeiJ7y/ | t42→t44 |
+| 1,483 | Costco is a wise investment for Downey, bringing in $3-3.5 million annually. This means more services and support for re | https://www.instagram.com/p/DecdeIeiJ7y/ | t42→t45 |
 | 1,452 | I experienced FIFA's questionable practices firsthand in Vancouver. They demanded Level 4 security, the kind reserved fo | https://www.instagram.com/p/DZfkho8DVwq/ | t3→t7 |
 | 1,437 | 5 to 7 people die on LA streets daily. Years of this, yet no urgency. A complete failure of local government. The bigges | https://www.instagram.com/p/Dcl1vipE-Dq/ | t29→t34 |
 | 1,422 | Sacramento's housing mandates are a struggle for built-out cities like Downey. We value local control and resent state o | https://www.instagram.com/p/Db3gVqdj8yS/ | t18→t25 |
@@ -319,7 +319,7 @@
 | 1,253 | Thought the military was just a job? It builds a bond unlike any other. Shared struggles create connections deeper than | https://www.instagram.com/p/DbUFe_9lVvE/ | t17→t20 |
 | 1,252 | Hosting FIFA watch parties in Downey on June 20th! Stonewood Mall and the Downtown District Association are closing down | https://www.instagram.com/p/DZilIFaiA_O/ | t4→t7 |
 | 1,246 | Misconception about public defenders: they don't care. The truth? We fight for clients with individualized attention. Ou | https://www.instagram.com/p/DawDRpGD1X6/ | t10→t16 |
-| 1,241 | This is my show. I welcome comments, but I'll always talk politics, especially now. I'm sharing my vote on propositions | https://www.instagram.com/p/DeQDo0blHrk/ | t41→t44 |
+| 1,241 | This is my show. I welcome comments, but I'll always talk politics, especially now. I'm sharing my vote on propositions | https://www.instagram.com/p/DeQDo0blHrk/ | t41→t45 |
 | 1,235 | COVID lockdowns made everything virtual. But in court, presence matters. Showing up for clients, no matter what, builds | https://www.instagram.com/p/Da1L14eCGwb/ | t10→t16 |
 | 1,235 | Three boys, 6, 5, and 4. They're a handful, but you can still serve and have babies. So thankful for my village—my famil | https://www.instagram.com/p/Dbb0as1oHNm/ | t17→t21 |
 | 1,221 | Mango passion refresher with lychee jelly - tastes like summer! 10/10. Perfect for a quick, refreshing treat. #MangoPass | https://www.instagram.com/p/Dc_maJrClRK/ | t31→t40 |
@@ -328,7 +328,7 @@
 | 1,191 | Came from Nicaragua at 8, didn't speak English. Now I bring that perspective to the bench. Appreciating freedoms others | https://www.instagram.com/p/DY3TbkGjB-F/ | t3→t3 |
 | 1,189 | Money flows to FIFA, not local economies. Substitution, crowding out, and leakage mean less for us. Don't be fooled by t | https://www.instagram.com/p/DZgG-gTAbD-/ | t3→t7 |
 | 1,189 | Porto's secrets revealed! Try the chorizo & egg on Cuban bread for breakfast or their amazing frita burger. Cuban flavor | https://www.instagram.com/p/DbTcbKHAAlS/ | t17→t20 |
-| 1,186 | Lissette Rivera: A WOLF in sheep's clothing? Claims to be from the community, but 75% of donations are from outside Down | https://www.instagram.com/p/DeZ2xUZjogO/ | t42→t44 |
+| 1,186 | Lissette Rivera: A WOLF in sheep's clothing? Claims to be from the community, but 75% of donations are from outside Down | https://www.instagram.com/p/DeZ2xUZjogO/ | t42→t45 |
 | 1,158 | Craving Thai? Narai Thai on Firestone is a family-owned gem! Their Panang curry and mango sticky rice are a must-try. Am | https://www.instagram.com/p/Dbdv7xjDeSJ/ | t17→t22 |
 | 1,133 | Don't be fooled by the narrative. Carrie Uva, a lifelong Democrat, is endorsed by 4 out of 5 council members, including | https://www.instagram.com/p/DdHUCcwiGnL/ | t32→t40 |
 | 1,099 | Recruiting challenges? Social media policies vary, but recruiting operations are often exempt. How can units better leve | https://www.instagram.com/p/DeHsR9qDbue/ | t41→t43 |
@@ -340,7 +340,7 @@
 | 993 | You won't believe Norms has a loco moco with fried rice and egg! It's comfort food perfection, especially with their end | https://www.instagram.com/p/DbJJ7CllJCB/ | t15→t19 |
 | 992 | A proposed 145-unit residential condominium project on 6.1 acres is raising concerns among nearby residents and communit | https://www.instagram.com/p/DbvxZG6lOS-/ | t17→t25 |
 | 981 | Coaching youth sports led to serving my community. It's amazing how guiding others can shape your own path. #communitylo | https://www.instagram.com/p/DeNfEvyCvkb/ | t41→t43 |
-| 972 | Lizette Rivera, a Democratic Socialist, is running for District 4, but her campaign is full of fake lines. She claims to | https://www.instagram.com/p/DehdB-lgSS_/ | t43→t44 |
+| 974 | Lizette Rivera, a Democratic Socialist, is running for District 4, but her campaign is full of fake lines. She claims to | https://www.instagram.com/p/DehdB-lgSS_/ | t43→t45 |
 | 965 | Election season is here! We're less than 60 days away from choosing who represents us. All politics is local, and what h | https://www.instagram.com/p/DdDVTyZjLdQ/ | t31→t40 |
 | 954 | From civil and workman's comp attorney to prosecutor. Ready to learn family law, bringing compassion and a unique defens | https://www.instagram.com/p/DZBHHeuEm8I/ | t0→t4 |
 | 947 | 14 consecutive balanced budgets, while others struggle. That's stability. That's leadership. Proud of our city's financi | https://www.instagram.com/p/DdIAFc6mrtK/ | t32→t40 |
@@ -362,21 +362,21 @@
 | 836 | Cultural exchange builds better societies. It combats tech's dark side & boosts global ties. Let's foster understanding. | https://www.instagram.com/p/DZBIbqhD7Kq/ | t0→t4 |
 | 831 | Proud Bruin since the 80s! Lifetime alum, and yes, our boat was even named 'Mixed Marriage' with a Trojan wife. So excit | https://www.instagram.com/p/DcMvN68iGr6/ | t21→t29 |
 | 829 | 15 years in the making: the Gateway sign is finally happening! Funded by arts and public funds, not police or general fu | https://www.instagram.com/p/Dal1JUEkgW4/ | t8→t16 |
-| 827 | Unbecoming conduct led to removal as ambassador. Concerns over behavior, unauthorized city logo use, and code of ethics | https://www.instagram.com/p/DeaXgSrCcB_/ | t42→t44 |
+| 827 | Unbecoming conduct led to removal as ambassador. Concerns over behavior, unauthorized city logo use, and code of ethics | https://www.instagram.com/p/DeaXgSrCcB_/ | t42→t45 |
 | 819 | This Korean BBQ spot in Downey is always packed! @letsgogidowney line is out the door on weekends. It's that good, and p | https://www.instagram.com/p/DZoVKT5jTzL/ | t4→t7 |
 | 819 | Running a restaurant means always wearing a smile, even when things are falling apart. You never know who's walking thro | https://www.instagram.com/p/DaoVA6tinyu/ | t8→t16 |
 | 813 | Achieving 'well qualified' in judicial ratings is a significant accomplishment. It's a consensus built by defense attorn | https://www.instagram.com/p/DZA_j7wFNc1/ | t3→t4 |
 | 804 | The mission of pageantry? Empower, inspire, uplift. Compete in at least one pageant to finesse your walk, smile, and dev | https://www.instagram.com/p/DaN70DwDUQa/ | t8→t9 |
 | 802 | Carrie, you're known for helping seniors with wills and trusts. It's more than a business; it's a ministry. You've helpe | https://www.instagram.com/p/DZ5-efKCMPm/ | t6→t7 |
 | 799 | New Pho spot opened in Downey Gateway! GYU Pho is just 3 weeks old and I've already been 3 times. Their Lomo Saltado is | https://www.instagram.com/p/DZn8ckZiQWD/ | t4→t7 |
-| 791 | Hypocrisy in politics: Is using Trump's name a lazy tactic? Some candidates are called 'MAGA' despite no ties. Even stat | https://www.instagram.com/p/Dee2_JbEiT3/ | t43→t44 |
+| 791 | Hypocrisy in politics: Is using Trump's name a lazy tactic? Some candidates are called 'MAGA' despite no ties. Even stat | https://www.instagram.com/p/Dee2_JbEiT3/ | t43→t45 |
 | 788 | At the public hearing for the proposed Downey condo project, residents made their voices heard. According to remarks sha | https://www.instagram.com/p/DbwazwmAC3P/ | t17→t25 |
 | 762 | Politicians promised change on ICE, but delivered little. Real policy change requires honesty and collective effort, not | https://www.instagram.com/p/DZDTyVSlnTb/ | t0→t6 |
 | 762 | 21 miles of roads fixed! It wasn't one person, but a bipartisan council working together. Real progress happens when peo | https://www.instagram.com/p/DdcksYiDxoU/ | t36→t41 |
 | 760 | Regarding the Honda World Project: Six and a half hours later, the residents voted 5-0 to reject it. Exhausted at 1 AM a | https://www.instagram.com/p/Db8o5uTjEQN/ | t19→t25 |
-| 753 | Serving on city council takes 25-30 hours weekly. No compensation, just tough decisions and sacrifices for the city's fu | https://www.instagram.com/p/Dec7iVqjMmU/ | t42→t44 |
+| 753 | Serving on city council takes 25-30 hours weekly. No compensation, just tough decisions and sacrifices for the city's fu | https://www.instagram.com/p/Dec7iVqjMmU/ | t42→t45 |
 | 752 | California lost billions in federal funding because the Newsom administration and Rob Bonta failed to meet their obligat | https://www.instagram.com/p/DchWHrUE0y0/ | t29→t33 |
-| 751 | Public service requires facts, not rumors. Setting the record straight on local boards and the commitment to those who s | https://www.instagram.com/p/DexWxEglbuY/ | t44→t44 |
+| 752 | Public service requires facts, not rumors. Setting the record straight on local boards and the commitment to those who s | https://www.instagram.com/p/DexWxEglbuY/ | t44→t45 |
 | 746 | Fairness and tough calls are my career. Even for a 2-time Super Bowl champ with gun charges, we found a win-win: he gave | https://www.instagram.com/p/DZBCTYmH46R/ | t0→t4 |
 | 738 | Graffiti on Downey Avenue? It's cleaner now because we designed it out. If it reappears, it's because we, as residents, | https://www.instagram.com/p/DaqPqsKGqOf/ | t9→t16 |
 | 738 | One year of running, not to erase what's happening, but to embrace it. We're backing stable leaders who embody trustwort | https://www.instagram.com/p/DdU1uRBEwf3/ | t34→t41 |
@@ -398,10 +398,10 @@
 | 655 | From a tough childhood in a low-income neighborhood, to running for city attorney. Empathy, resilience, and understandin | https://www.instagram.com/p/DctkzsIDCDH/ | t29→t35 |
 | 651 | Public art funds aren't just statues. They've funded murals, painted power boxes, and revitalized downtowns, enhancing c | https://www.instagram.com/p/Dd60FaZlORT/ | t40→t41 |
 | 644 | Walking distance to amazing sushi in Downey! Starfish Sushi's bento box lunch special is out of this world. So much food | https://www.instagram.com/p/DbbLI_njb-2/ | t17→t21 |
-| 639 | Being registered Republican doesn't automatically make you MAGA. Many are Never Trumpers. Don't be a hypocrite. Do thing | https://www.instagram.com/p/DefgVB3mBeY/ | t43→t44 |
+| 640 | Being registered Republican doesn't automatically make you MAGA. Many are Never Trumpers. Don't be a hypocrite. Do thing | https://www.instagram.com/p/DefgVB3mBeY/ | t43→t45 |
 | 633 | This bill restricts public records requests, allowing cities to charge high fees and deny requests based on 'nefarious' | https://www.instagram.com/p/Da6WNMdivQz/ | t13→t16 |
 | 628 | America offers so much. Even with our flaws, we're unique. Let's appreciate this country and its progress. #USA #America | https://www.instagram.com/p/DaWg5ZeDMdX/ | t8→t13 |
-| 618 | Serving on 9 boards, all non-profit, all for the community. Giving back isn't a job, it's a commitment to the place we c | https://www.instagram.com/p/Dexiku3jy0c/ | t44→t44 |
+| 619 | Serving on 9 boards, all non-profit, all for the community. Giving back isn't a job, it's a commitment to the place we c | https://www.instagram.com/p/Dexiku3jy0c/ | t44→t45 |
 | 607 | Voting is personal, but Measure ER on the county ballot? It's a tax hike disguised as a good cause. Let's say no to risi | https://www.instagram.com/p/DZBDAKpknOv/ | t0→t4 |
 | 607 | A due process junkie who respects our justice system. It's not perfect, and we all have biases, but I'm committed to lif | https://www.instagram.com/p/Dax9-i_CERk/ | t10→t16 |
 | 594 | Did you know Chipotle has a secret menu? I learned about their amazing quesadilla, not listed on the regular menu, and i | https://www.instagram.com/p/DbqndQZiEw5/ | t17→t23 |
@@ -419,35 +419,35 @@
 | 521 | The Planning Commission meeting is back on August 18th. Public comments are welcome as staff addresses findings. A 'no' | https://www.instagram.com/p/Db_OuL4jOSO/ | t19→t25 |
 | 518 | Starting as a defense attorney means facing bias. People assume guilt. But our system presumes innocence until proven gu | https://www.instagram.com/p/DaynC2BgPRT/ | t10→t16 |
 | 516 | YIMBY Law threatens lawsuits over housing projects, citing state laws. They claim projects address concerns, but critics | https://www.instagram.com/p/Db6uOWYEtlv/ | t18→t25 |
-| 515 | True advocacy requires accountability, not exclusion. Families deserve a safe space for their voices, not a personal age | https://www.instagram.com/p/Dezd441j9bO/ | t44→t44 |
+| 516 | True advocacy requires accountability, not exclusion. Families deserve a safe space for their voices, not a personal age | https://www.instagram.com/p/Dezd441j9bO/ | t44→t45 |
 | 510 | Exciting times in our Downey food venture! I'm your official taste tester, ready to explore local, privately owned gems. | https://www.instagram.com/p/DZvrAUGFRm3/ | t6→t7 |
 | 496 | FIFA is a money-making machine, but what about the locals? In Downey, we're choosing to have fun with it. A huge event i | https://www.instagram.com/p/DZkuryUj_Qq/ | t4→t7 |
-| 490 | This housing bond is a scam. It claims to help veterans, but less than 10% goes to them. It's a disingenuous tactic to g | https://www.instagram.com/p/DekBYD_EhkP/ | t44→t44 |
+| 490 | This housing bond is a scam. It claims to help veterans, but less than 10% goes to them. It's a disingenuous tactic to g | https://www.instagram.com/p/DekBYD_EhkP/ | t44→t45 |
 | 487 | 100 jury trials? Not one. She's running for LA's top attorney, but has never managed anyone. Real parallels to Gascón's | https://www.instagram.com/p/DcmfoMLCjie/ | t29→t34 |
 | 486 | House fires destroy more than homes. They leave behind financial devastation, insurance nightmares, and a long road to r | https://www.instagram.com/p/DcRquRBCclO/ | t22→t31 |
 | 485 | Downey's rich aerospace history: from Volty Aircraft runways to designing Apollo modules. After 30,000 jobs left, the co | https://www.instagram.com/p/Daay8f6DcsC/ | t8→t14 |
 | 471 | Hire people better than you. Get their buy-in. Everyone rowing in the same direction, knowing what a win looks like. Ask | https://www.instagram.com/p/DcKK3ZiFEW0/ | t21→t25 |
-| 468 | Proposition 2 sounds responsible with its 'rainy day fund', but it's lipstick on a pig. It lets politicians suspend depo | https://www.instagram.com/p/DekqueejBou/ | t44→t44 |
+| 468 | Proposition 2 sounds responsible with its 'rainy day fund', but it's lipstick on a pig. It lets politicians suspend depo | https://www.instagram.com/p/DekqueejBou/ | t44→t45 |
 | 463 | Looking for a judge ready on day one. Honor, dignity, integrity are key. My experience in the community and trial work m | https://www.instagram.com/p/Da5zgBwAEEA/ | t13→t16 |
 | 461 | California's billionaire tax? It might cost us more than it makes. Proposed 5% tax could drive billionaires out, costing | https://www.instagram.com/p/DbJyQyeFB0C/ | t15→t19 |
 | 461 | Obsessed with molcajete! This sizzling lava pot with carne asada, chicken, chorizo, cactus, spicy sauce, and cheese is u | https://www.instagram.com/p/Dbosi2tifsb/ | t17→t23 |
 | 447 | Ladies, stop second-guessing. Your time is NOW. Take the leap of faith, embrace your individuality, and bring what you h | https://www.instagram.com/p/DaRJ20QDahr/ | t8→t12 |
 | 443 | Even in tough seasons, the goal was always to improve. The NFL rewards balance, but some teams go all-in. Success means | https://www.instagram.com/p/Db_pgTzjkBS/ | t19→t25 |
 | 439 | Transparency matters. This bill risks limiting public access to information, a slippery slope towards less trust. We nee | https://www.instagram.com/p/DbBbMGPjZM-/ | t14→t17 |
-| 438 | Prop 3 is a deceptive tax extension, not temporary as promised. It adds 4% for high earners ($300-400k) and extends past | https://www.instagram.com/p/DervProDAlJ/ | t44→t44 |
+| 438 | Prop 3 is a deceptive tax extension, not temporary as promised. It adds 4% for high earners ($300-400k) and extends past | https://www.instagram.com/p/DervProDAlJ/ | t44→t45 |
 | 434 | Craving poke in Downtown Downey? Tapoke Poke at Gateway offers a fresh, customizable experience. Build your bowl with br | https://www.instagram.com/p/DboDDjBANAq/ | t17→t23 |
 | 431 | As a 92 Alpha Logistics Specialist, I only touch a weapon for retraining. Spreading knowledge about who we really are he | https://www.instagram.com/p/DbeY9YJlKoR/ | t17→t22 |
 | 430 | Target Crimes Division: tackling everything from stalking and child abduction to animal cruelty and arson. Nuisance fire | https://www.instagram.com/p/Dc18GwpCk2U/ | t29→t39 |
-| 430 | A new 25 billion dollar housing bond program is stirring debate. Is it the key to middle-class homeownership or a costly | https://www.instagram.com/p/Deu9SwoDMW8/ | t44→t44 |
+| 430 | A new 25 billion dollar housing bond program is stirring debate. Is it the key to middle-class homeownership or a costly | https://www.instagram.com/p/Deu9SwoDMW8/ | t44→t45 |
 | 428 | Predatory pricing and rent gouging explained through a student's experience. See the gap between legal theory and real-w | https://www.instagram.com/p/DcR5WgHiGZN/ | t22→t31 |
-| 425 | Running for office means endless call time. If people believe in you, they'll fund your campaign. Public financing campa | https://www.instagram.com/p/DesYfz7DRBw/ | t44→t44 |
+| 425 | Running for office means endless call time. If people believe in you, they'll fund your campaign. Public financing campa | https://www.instagram.com/p/DesYfz7DRBw/ | t44→t45 |
 | 409 | The Fun Box is a family hit! Amazing diversity from restaurants like Diosa and Silver Lake Ramen. Get ready for family-f | https://www.instagram.com/p/DZvB3Whkp_2/ | t6→t7 |
 | 401 | 14 ballot propositions? Don't just read them, understand who's pushing them. Your state is worth fighting for. Stay and | https://www.instagram.com/p/DbMXcskjRh6/ | t16→t20 |
 | 399 | The courtroom drama doesn't end with the verdict. Witness two powerful moments of post-case interactions: one of avoidan | https://www.instagram.com/p/DcbuimbFCnv/ | t24→t32 |
 | 395 | Stan Kroenke's advice for LA: 'Don't go small, go big.' He also took a huge gamble hiring a 30-year-old coach, Sean McVa | https://www.instagram.com/p/DcBzBdXjyP3/ | t20→t25 |
 | 389 | Answer your juror summons. You'd want a juror like you. Ensure the process works and everyone has dignity. Justice depen | https://www.instagram.com/p/Da0ipWlE9kl/ | t10→t16 |
 | 374 | Remember Proposition 1A in 2008? It authorized $9 billion for high-speed rail, estimated to cost $19 billion after 30 ye | https://www.instagram.com/p/DcgtWkvAY3e/ | t29→t33 |
-| 374 | Prop 5 changes how recalls work, making them harder and letting politicians choose replacements instead of voters. Prote | https://www.instagram.com/p/DeuUCPljZOC/ | t44→t44 |
+| 374 | Prop 5 changes how recalls work, making them harder and letting politicians choose replacements instead of voters. Prote | https://www.instagram.com/p/DeuUCPljZOC/ | t44→t45 |
 | 356 | Rams went all-in: Traded for Stafford, won the Super Bowl. Now, they've drafted their QB of the future and traded for My | https://www.instagram.com/p/DcCc0IOivfQ/ | t20→t25 |
 | 352 | The World Cup brings passion, but let's celebrate responsibly. Seeing cities torn down or havoc caused after a win isn't | https://www.instagram.com/p/DaeBnhYHUIP/ | t8→t14 |
 | 340 | Are we called to be successful? Mother Teresa's powerful response to a reporter challenges the very definition of succes | https://www.instagram.com/p/DcPUsmjgt-8/ | t22→t30 |
@@ -466,7 +466,7 @@
 | 249 | Billions in federal funding lost due to missed obligations. The state forgot to secure funding for major rail projects. | https://www.instagram.com/p/DcjRCWWHdND/ | t29→t33 |
 | 246 | A buzz is building in Downey for the championship game! Downey Ave closes July 19th for TVs, food, and family fun. Get r | https://www.instagram.com/p/Daf8aOJiPHa/ | t8→t14 |
 | 243 | Carrie Uva for Downey City Council District 4. Focused on public safety, quality of life, balanced budget, and supportin | https://www.instagram.com/p/DaBs-GAFNZI/ | t7→t7 |
-| 242 | Prop 38 aims to fund medical research through public-private partnerships. A complex issue balancing taxpayer risk with | https://www.instagram.com/p/De0GpdDieP5/ | t44→t44 |
+| 242 | Prop 38 aims to fund medical research through public-private partnerships. A complex issue balancing taxpayer risk with | https://www.instagram.com/p/De0GpdDieP5/ | t44→t45 |
 | 149 | We focus too much on what divides us, forgetting how sports unite us. The World Cup brings different generations, langua | https://www.instagram.com/p/DagmdFPkWlN/ | t8→t15 |
 | 99 | Our social media growth is exponential! Over 100k views combined, with 54k+ on one platform alone in just two weeks. We' | https://www.instagram.com/p/DaihUOCjJKZ/ | t8→t15 |
 | 2 | Keeping our community involved is the whole point! Your questions drive what we explore, from new restaurants to excitin | https://www.instagram.com/p/DajKR2GIEBp/ | t8→t16 |
@@ -489,20 +489,20 @@
 | — | Election Day is around the corner!  Navigating state ballot measures can be confusing, so here’s a quick breakdown of th | https://www.instagram.com/p/DeNH2s9yGIm/ | t41→t43 |
 | — | The hypocrisy is real. Lissette Rivera’s supporters love calling out "MAGA" Mayor Frometa, yet they completely ignore th | https://www.instagram.com/p/DeKyfN3EtpI/ | t41→t43 |
 | — | 14 PROPOSITIONS. YES, 14! 🗳️  Every election, I get asked to weigh in on the California propositions. This year, we have | https://www.instagram.com/p/DeQA8sFPo-e/ | t41→t43 |
-| — | (no title) | https://www.instagram.com/p/DeXsMvUkhxi/ | t42→t44 |
-| — | Lunch with Former Mayor Rick and our godson (who we share co-custody of 😂)! Always great catching up, sharing laughs, an | https://www.instagram.com/p/DedQYMam_bF/ | t42→t44 |
-| — | 🏈 Congratulations to Downey High School on the big win over rival Warren High School! 🎉  There’s nothing quite like a so | https://www.instagram.com/p/DeTcxfpG7Bm/ | t42→t44 |
-| — | 🇺🇸 Now THIS made my day!  An unexpected visit to my office this afternoon from Jeremy and his dad, who came by to thank | https://www.instagram.com/p/Dec2bPnkorr/ | t42→t44 |
-| — | WOW! | https://www.instagram.com/p/DedRxUkGyUp/ | t42→t44 |
-| — | 💙⚾ NEVER GIVE UP, DODGER NATION! ⚾💙😂 It ain’t over till the fat dude sings! 🎤🤣 And this dude ain’t singing YET! 🎶💪  We’r | https://www.instagram.com/p/DeiE-o6D79V/ | t43→t44 |
-| — | Getting ready for our baptism class tonight but I keep catching myself staring out the window at the ever-changing cloud | https://www.instagram.com/p/Dez9ZFfEiMt/ | t44→t44 |
+| — | (no title) | https://www.instagram.com/p/DeXsMvUkhxi/ | t42→t45 |
+| — | Lunch with Former Mayor Rick and our godson (who we share co-custody of 😂)! Always great catching up, sharing laughs, an | https://www.instagram.com/p/DedQYMam_bF/ | t42→t45 |
+| — | 🏈 Congratulations to Downey High School on the big win over rival Warren High School! 🎉  There’s nothing quite like a so | https://www.instagram.com/p/DeTcxfpG7Bm/ | t42→t45 |
+| — | 🇺🇸 Now THIS made my day!  An unexpected visit to my office this afternoon from Jeremy and his dad, who came by to thank | https://www.instagram.com/p/Dec2bPnkorr/ | t42→t45 |
+| — | WOW! | https://www.instagram.com/p/DedRxUkGyUp/ | t42→t45 |
+| — | 💙⚾ NEVER GIVE UP, DODGER NATION! ⚾💙😂 It ain’t over till the fat dude sings! 🎤🤣 And this dude ain’t singing YET! 🎶💪  We’r | https://www.instagram.com/p/DeiE-o6D79V/ | t43→t45 |
+| — | Getting ready for our baptism class tonight but I keep catching myself staring out the window at the ever-changing cloud | https://www.instagram.com/p/Dez9ZFfEiMt/ | t44→t45 |
 
 ## Facebook (258)
 
 | Views | Title | URL | seen |
 |---:|---|---|---|
 | 11,860 | Chaos erupted at a council meeting when Ms. Rivera began screaming, refusing to calm down despite the Mayor's repeated r | https://www.facebook.com/100076110496091/posts/1090214033525603 | t33→t40 |
-| 7,150 | What kind of conduct should we expect from those seeking public office? During a Downey City Council meeting, an unexpec | https://www.facebook.com/100076110496091/posts/1119423130604693 | t42→t44 |
+| 7,150 | What kind of conduct should we expect from those seeking public office? During a Downey City Council meeting, an unexpec | https://www.facebook.com/100076110496091/posts/1119423130604693 | t42→t45 |
 | 6,363 | After admitting 'I messed up,' a city councilman's inappropriate conduct is under scrutiny. His emails, including one te | https://www.facebook.com/100076110496091/posts/1012194554660885 | t2→t6 |
 | 6,355 | Over 25,000 people gathered at Stonewood Mall for a massive watch party. Despite the $300,000 cost, it was a memorable e | https://www.facebook.com/100076110496091/posts/1034284952451845 | t8→t14 |
 | 5,812 | Tensions flared at the city council meeting as a woman repeatedly defied the mayor's requests to sit down. Despite multi | https://www.facebook.com/100076110496091/posts/1010707518142922 | t1→t4 |
@@ -513,7 +513,7 @@
 | 3,127 | A woman organized a vigil for a murder victim, but didn't check with the grieving family. The family and city had alread | https://www.facebook.com/100076110496091/posts/1095349043012102 | t35→t41 |
 | 3,053 | Don't be fooled by simple comparisons. Carrie Uva, a lifelong Democrat, has earned endorsements from four out of five ci | https://www.facebook.com/100076110496091/posts/1089370570276616 | t32→t39 |
 | 2,829 | Is bottle service at nightclubs contributing to late-night street fights? We're seeing a pattern of intoxicated crowds a | https://www.facebook.com/100076110496091/posts/1109098571637149 | t42→t43 |
-| 2,767 | When accusations of stolen valor are thrown around, it is vital to set the record straight with facts. Serving on commun | https://www.facebook.com/100076110496091/posts/1126893679857638 | t44→t44 |
+| 2,768 | When accusations of stolen valor are thrown around, it is vital to set the record straight with facts. Serving on commun | https://www.facebook.com/100076110496091/posts/1126893679857638 | t44→t45 |
 | 2,575 | Debating whether to rock the city seal jacket on a bike ride. Might catch some flak from Mr. Trujillo, but feeling bold | https://www.facebook.com/100076110496091/posts/1013053857908288 | t3→t7 |
 | 2,491 | A terrifying moment outside City Hall as a car nearly hits a family. A witness captured the incident and checked on the | https://www.facebook.com/100076110496091/posts/1025648663315474 | t8→t9 |
 | 2,435 | Tired of fake news and personal attacks. Let's set the record straight about my 42-year marriage, bachelor party, and ru | https://www.facebook.com/100076110496091/posts/1028127696400904 | t8→t9 |
@@ -522,11 +522,11 @@
 | 2,178 | A new pho restaurant called GYU Pho has opened at Downey Gateway, right where the old hummus factory used to be. It's on | https://www.facebook.com/100076110496091/posts/1016490837564590 | t4→t7 |
 | 2,043 | Downey is experiencing a surge of new Asian-style restaurants. From Silver Lake Ramen to other popular spots, the city's | https://www.facebook.com/100076110496091/posts/1016293220917685 | t4→t7 |
 | 1,956 | La Chula Mexican food is getting some new neighbors! A Tacos Con Todo is closing down to make way for a Mongolian barbec | https://www.facebook.com/100076110496091/posts/1017119150835092 | t6→t7 |
-| 1,956 | Costco is a proven commodity, and this investment from the city reserve fund will generate millions annually. This means | https://www.facebook.com/100076110496091/posts/1119275633952776 | t42→t44 |
-| 1,871 | Growing up, Pharaoh's at Stonewood Mall was a childhood staple. Later, Warren High School became the place I met my wife | https://www.facebook.com/100076110496091/posts/1113797121167294 | t41→t44 |
+| 1,956 | Costco is a proven commodity, and this investment from the city reserve fund will generate millions annually. This means | https://www.facebook.com/100076110496091/posts/1119275633952776 | t42→t45 |
+| 1,871 | Growing up, Pharaoh's at Stonewood Mall was a childhood staple. Later, Warren High School became the place I met my wife | https://www.facebook.com/100076110496091/posts/1113797121167294 | t41→t45 |
 | 1,846 | This new Korean barbecue spot in Downey is so popular, there's always a line out the door. Yogi Berra once said, 'Nobody | https://www.facebook.com/100076110496091/posts/1016586934221647 | t4→t7 |
 | 1,846 | Discover Pop's Wings, a family-owned gem in Downey serving up more than just wings. Their pastrami sandwich on toasted b | https://www.facebook.com/100076110496091/posts/1046305594583114 | t14→t17 |
-| 1,824 | The Downey Chamber of Commerce unanimously voted to remove an ambassador due to unbecoming conduct. Concerns over behavi | https://www.facebook.com/100076110496091/posts/1118481244032215 | t42→t44 |
+| 1,824 | The Downey Chamber of Commerce unanimously voted to remove an ambassador due to unbecoming conduct. Concerns over behavi | https://www.facebook.com/100076110496091/posts/1118481244032215 | t42→t45 |
 | 1,813 | Get ready for an exciting new addition at Stonewood Mall! Round One is opening its doors, spanning an incredible 150,000 | https://www.facebook.com/100076110496091/posts/1017951187418555 | t6→t7 |
 | 1,795 | I grew up in Huntington Park and still own property there. The city's rules and ordinances are hurting residents. They a | https://www.facebook.com/100076110496091/posts/1011414234738917 | t1→t6 |
 | 1,795 | One candidate lists her name last minute, displaying distress signals like an upside-down flag. She talks about national | https://www.facebook.com/100076110496091/posts/1090433926836947 | t33→t40 |
@@ -537,7 +537,7 @@
 | 1,635 | Stuck on Fairford for nearly two and a half hours today. What started quiet turned into insane rush hour traffic by 4 PM | https://www.facebook.com/100076110496091/posts/1063315352882138 | t18→t25 |
 | 1,601 | Mr. Trujillo informed me about a seal amidst unauthorized merchandise. I’ll showcase the merchandise in the second video | https://www.facebook.com/100076110496091/posts/1012918541255153 | t2→t6 |
 | 1,588 | Meet Carrie Uva, an exceptional candidate with a proven track record. From Planning Commission chair and Chamber of Comm | https://www.facebook.com/100076110496091/posts/1088501083696898 | t32→t39 |
-| 1,563 | Downey, you deserve straight answers. Lissette Rivera is running for City Council District 4, and this video raises ques | https://www.facebook.com/100076110496091/posts/1125369043343435 | t44→t44 |
+| 1,563 | Downey, you deserve straight answers. Lissette Rivera is running for City Council District 4, and this video raises ques | https://www.facebook.com/100076110496091/posts/1125369043343435 | t44→t45 |
 | 1,531 | Get ready for some soccer action! The city of Downey is hosting watch parties for FIFA events, including one at Stonewoo | https://www.facebook.com/100076110496091/posts/1014741211072886 | t4→t7 |
 | 1,459 | Discover the surprising truth about the NFL's structure. Learn how a losing season can actually benefit teams with bette | https://www.facebook.com/100076110496091/posts/1065806945966312 | t19→t25 |
 | 1,452 | Right next to Porto's, Downey Gateway offers an incredible array of dining options. From pho and Mongolian barbecue to p | https://www.facebook.com/100076110496091/posts/1017258417487832 | t6→t7 |
@@ -545,16 +545,16 @@
 | 1,441 | Regarding the Honda World Project. After a marathon meeting from 6:00 AM to 1:00 AM, a vote of 5-0 rejected the proposal | https://www.facebook.com/100076110496091/posts/1064809539399386 | t19→t25 |
 | 1,440 | Being a lifetime member of the UCLA alumni association since the 80s, I'm incredibly proud of my school. Even with a wif | https://www.facebook.com/100076110496091/posts/1070148738865466 | t21→t25 |
 | 1,435 | The podcast host addresses accusations of attacking opponents, fueling division, and talking down on women, presenting h | https://www.facebook.com/100076110496091/posts/1026284329918574 | t8→t9 |
-| 1,435 | Being a registered Republican doesn't automatically make you a MAGA supporter. There are many never-Trumpers and those w | https://www.facebook.com/100076110496091/posts/1120382103842129 | t43→t44 |
+| 1,435 | Being a registered Republican doesn't automatically make you a MAGA supporter. There are many never-Trumpers and those w | https://www.facebook.com/100076110496091/posts/1120382103842129 | t43→t45 |
 | 1,416 | I felt compelled to respond after listening to recent discussions. He acknowledges the great things happening in Downey | https://www.facebook.com/100076110496091/posts/1010418734838467 | t0→t4 |
 | 1,391 | (no title) | https://www.facebook.com/100076110496091/posts/1004359515444389 | t0→t4 |
-| 1,385 | An AI-generated email accused me of using the city seal for political gain. This is my private office, funded by me. The | https://www.facebook.com/100076110496091/posts/1114497411097265 | t41→t44 |
-| 1,384 | My show, my voice. I'll continue discussing politics, especially with election season here. I'll cover propositions, giv | https://www.facebook.com/100076110496091/posts/1114714467742226 | t41→t44 |
+| 1,385 | An AI-generated email accused me of using the city seal for political gain. This is my private office, funded by me. The | https://www.facebook.com/100076110496091/posts/1114497411097265 | t41→t45 |
+| 1,384 | My show, my voice. I'll continue discussing politics, especially with election season here. I'll cover propositions, giv | https://www.facebook.com/100076110496091/posts/1114714467742226 | t41→t45 |
 | 1,358 | Discover Poached, a North Downey favorite open only for breakfast and lunch. Their commitment to fresh ingredients shine | https://www.facebook.com/100076110496091/posts/1052894390590901 | t17→t20 |
 | 1,357 | A 2007 letter from a prominent citizen sent shockwaves through the community, igniting action. Today, witnessing the res | https://www.facebook.com/100076110496091/posts/1030734439473563 | t8→t12 |
 | 1,348 | The World Cup brings incredible passion as countries pour their hearts into the game. While celebrations are amazing, le | https://www.facebook.com/100076110496091/posts/1034497039097303 | t8→t14 |
 | 1,343 | Our city, the 10th largest in LA County, boasts its own police, fire, and school district. We maintain a great working r | https://www.facebook.com/100076110496091/posts/1093638246516515 | t34→t40 |
-| 1,341 | A campaign mailer labels Lizette Rivera a 'wolf in sheep's clothing,' highlighting her co-founding of WOOF and alleged m | https://www.facebook.com/100076110496091/posts/1118302530716753 | t42→t44 |
+| 1,341 | A campaign mailer labels Lizette Rivera a 'wolf in sheep's clothing,' highlighting her co-founding of WOOF and alleged m | https://www.facebook.com/100076110496091/posts/1118302530716753 | t42→t45 |
 | 1,314 | A mayor's controversial call for gang members to confront ICE sparked a federal investigation and public outcry. The inc | https://www.facebook.com/100076110496091/posts/1010559058157768 | t1→t4 |
 | 1,286 | Discover the incredible bento box lunch special at Starfish Sushi in downtown Downey. This spot offers delicious sushi r | https://www.facebook.com/100076110496091/posts/1053768200503520 | t17→t20 |
 | 1,261 | Did you know Chipotle has a secret menu? I discovered their amazing chicken quesadilla, complete with rice and beans, an | https://www.facebook.com/100076110496091/posts/1058906083323065 | t17→t23 |
@@ -571,7 +571,7 @@
 | 1,101 | We're building this show for you! Your questions and suggestions directly influence what we cover, from new restaurants | https://www.facebook.com/100076110496091/posts/1036195698927437 | t8→t15 |
 | 1,081 | Major events often promise economic boosts, but the reality can be complex. Economists point to substitution, crowding o | https://www.facebook.com/100076110496091/posts/1013918497821824 | t3→t7 |
 | 1,077 | Discover Downey's rich past as a hub for aviation and space exploration, from Volty Aircraft to the Apollo modules. Lear | https://www.facebook.com/100076110496091/posts/1033411445872529 | t8→t13 |
-| 1,056 | Concerns are high about late-night downtown disturbances. A special subcommittee meeting brought together council member | https://www.facebook.com/100076110496091/posts/1121335790413427 | t43→t44 |
+| 1,056 | Concerns are high about late-night downtown disturbances. A special subcommittee meeting brought together council member | https://www.facebook.com/100076110496091/posts/1121335790413427 | t43→t45 |
 | 1,042 | An $11 billion bond is being presented with 'Veterans and Affordable Housing' in its name, but less than 10% actually go | https://www.facebook.com/100076110496091/posts/1047096001170740 | t15→t17 |
 | 999 | You won't believe Norms has an amazing loco moco served with fried rice and egg! It's comfort food at its finest. Enjoy | https://www.facebook.com/100076110496091/posts/1047890314424642 | t15→t18 |
 | 978 | Sacramento's housing mandates are hitting cities hard. We're a built-out community, and local governments are pushing ba | https://www.facebook.com/100076110496091/posts/1063107219569618 | t18→t25 |
@@ -579,11 +579,11 @@
 | 953 | Years on the Public Works Committee revealed the inner workings of our city. From managing our water wells to street rep | https://www.facebook.com/100076110496091/posts/1022977510249256 | t6→t7 |
 | 932 | Carrie Uva for Downey City Council District 4 | Talking Downey  Downey’s District 4 race is heating up. We take a closer | https://www.facebook.com/100076110496091/posts/1089543616925978 | t32→t40 |
 | 927 | Did you know IHOP has a delicious ham and cheese omelet, surprisingly affordable at around $8? Paired with endless coffe | https://www.facebook.com/100076110496091/posts/1059774783236195 | t17→t23 |
-| 926 | Lizette Rivera, running for District 4, is facing questions about her campaign's messaging and associations. Despite her | https://www.facebook.com/100076110496091/posts/1121110610435945 | t43→t44 |
+| 926 | Lizette Rivera, running for District 4, is facing questions about her campaign's messaging and associations. Despite her | https://www.facebook.com/100076110496091/posts/1121110610435945 | t43→t45 |
 | 921 | The Planning Commission is set to review Honda World's project again on August 18th. While the applicant stands to make | https://www.facebook.com/100076110496091/posts/1065653542648319 | t19→t25 |
 | 917 | The city of Downey is stable and thriving, passing its 14th consecutive balanced budget. While other cities struggle, Do | https://www.facebook.com/100076110496091/posts/1089579856922354 | t32→t40 |
 | 916 | Ever wondered if your military job means combat? Not everyone deployed sees action, and your MOS (job) plays a huge role | https://www.facebook.com/100076110496091/posts/1047273761152964 | t15→t17 |
-| 914 | Prop 3 is presented as a temporary measure, but it's actually an extension of existing taxes. This proposal adds nearly | https://www.facebook.com/100076110496091/posts/1124868430060163 | t44→t44 |
+| 914 | Prop 3 is presented as a temporary measure, but it's actually an extension of existing taxes. This proposal adds nearly | https://www.facebook.com/100076110496091/posts/1124868430060163 | t44→t45 |
 | 906 | This Vietnamese coffee from Tea Leaf Co is the perfect mid-day pick-me-up. It's not too sweet, not too bitter, and exact | https://www.facebook.com/100076110496091/posts/1084229104124096 | t29→t39 |
 | 900 | Looking for authentic Thai food? Nara Thai on Firestone, across from the Hyundai dealership, is a family-owned spot you | https://www.facebook.com/100076110496091/posts/1054634460416894 | t17→t21 |
 | 900 | Residents just want to be heard. By actively listening and guiding them through processes, you show them you're there to | https://www.facebook.com/100076110496091/posts/1112695791277427 | t41→t43 |
@@ -597,7 +597,7 @@
 | 792 | For a year, the message has been clear: we want to keep the positive momentum in Downey. We're supporting stable, respec | https://www.facebook.com/100076110496091/posts/1093838933163113 | t34→t40 |
 | 790 | Building a successful team means more than just hiring. It's about putting the right people in the right seats. Analyze | https://www.facebook.com/100076110496091/posts/1069100705636936 | t21→t25 |
 | 787 | Reflecting on downtown's potential, the vision was always a vibrant, walkable area, much like Birch Street. While we see | https://www.facebook.com/100076110496091/posts/1037593705454303 | t8→t16 |
-| 774 | The political landscape is filled with hypocrisy. From using names for clout to controversial statements, it's a game of | https://www.facebook.com/100076110496091/posts/1120156590531347 | t43→t44 |
+| 774 | The political landscape is filled with hypocrisy. From using names for clout to controversial statements, it's a game of | https://www.facebook.com/100076110496091/posts/1120156590531347 | t43→t45 |
 | 768 | He wanted to join, but his parents were against it and he doubted his own abilities. No family support, but I pushed him | https://www.facebook.com/100076110496091/posts/1048688781011462 | t16→t18 |
 | 761 | The promises made by politicians often fall short, especially concerning policies like ICE. True progress requires hones | https://www.facebook.com/100076110496091/posts/1004186872128320 | t0→t4 |
 | 761 | Graduating high school, I went to college, but it wasn't the right fit. Juggling studies and work, I realized I needed a | https://www.facebook.com/100076110496091/posts/1053095730570767 | t17→t20 |
@@ -627,7 +627,7 @@
 | 659 | You've heard the hype, now see the banana pudding everyone's talking about! Forget peeling the banana, you gotta poke it | https://www.facebook.com/100076110496091/posts/1086964963850510 | t31→t39 |
 | 650 | High school students need to know the vast opportunities available! From becoming a doctor or lawyer to a chef or musici | https://www.facebook.com/100076110496091/posts/1106328385247501 | t40→t42 |
 | 626 | Election season is here, with just 60 days left until we elect new representatives. Mayor Mario Guerra discusses the loc | https://www.facebook.com/100076110496091/posts/1088007103746296 | t31→t39 |
-| 621 | Serving on city council demands far more time than most realize. Many put in 25-30 hours weekly, driven by a desire to g | https://www.facebook.com/100076110496091/posts/1119428637270809 | t42→t44 |
+| 621 | Serving on city council demands far more time than most realize. Many put in 25-30 hours weekly, driven by a desire to g | https://www.facebook.com/100076110496091/posts/1119428637270809 | t42→t45 |
 | 609 | Our city has invested over $30 million in street repaving, and the work is almost complete. Beyond roads, rapid graffiti | https://www.facebook.com/100076110496091/posts/1023159963564344 | t6→t7 |
 | 604 | Exciting times in our local food venture! We're aiming to highlight Downey's privately owned restaurants. What amazing l | https://www.facebook.com/100076110496091/posts/1018967460650261 | t6→t7 |
 | 604 | Carrie Uva shares her commitment to public safety, quality of life, maintaining a balanced budget, and supporting small | https://www.facebook.com/100076110496091/posts/1024811506732523 | t7→t7 |
@@ -639,7 +639,7 @@
 | 548 | Get ready, Downey! Mama Lu's, a beloved Asian restaurant, is opening soon. Revered by the Asian community for special oc | https://www.facebook.com/100076110496091/posts/1018149934065347 | t6→t7 |
 | 543 | Exciting times in our local food venture! We're aiming to highlight Downey's privately owned restaurants. What amazing l | https://www.facebook.com/100076110496091/posts/1018967420650265 | t6→t7 |
 | 536 | (no title) | https://www.facebook.com/100076110496091/posts/1094532959760377 | t35→t41 |
-| 527 | A critical look at Proposition 1's housing bond. While it promises billions for housing and uses the popular term 'veter | https://www.facebook.com/100076110496091/posts/1122060947007578 | t44→t44 |
+| 527 | A critical look at Proposition 1's housing bond. While it promises billions for housing and uses the popular term 'veter | https://www.facebook.com/100076110496091/posts/1122060947007578 | t44→t45 |
 | 524 | Enlisting in the Army changed my life. I walked in just wanting college paid for, and 13 years later, I have my bachelor | https://www.facebook.com/100076110496091/posts/1045576627989344 | t14→t16 |
 | 516 | A council member was fined $13,000 for not reporting campaign contributions. It's essential to report accurately and pay | https://www.facebook.com/100076110496091/posts/1011541961392811 | t2→t6 |
 | 514 | Military members navigate a unique language. While we pick up on it, speaking plainly to civilians—like high school stud | https://www.facebook.com/100076110496091/posts/1112020488011624 | t41→t43 |
@@ -649,12 +649,12 @@
 | 500 | The Rams made a bold move trading for Matthew Stafford, who later won MVP and a Super Bowl. Now, they've doubled down, a | https://www.facebook.com/100076110496091/posts/1066705415876465 | t20→t25 |
 | 485 | In 2008, voters approved $9 billion for a LA to San Francisco high-speed rail project. The initial estimate for bonds af | https://www.facebook.com/100076110496091/posts/1076691981544475 | t29→t32 |
 | 484 | A vigilant neighborhood watch group alerted police to speeding issues on their street. Within days, this led to a traffi | https://www.facebook.com/100076110496091/posts/1023808510166156 | t7→t7 |
-| 481 | Proposition 2 sounds responsible, promising to increase the state's rainy day fund. But the details reveal a dangerous l | https://www.facebook.com/100076110496091/posts/1122288596984813 | t44→t44 |
+| 481 | Proposition 2 sounds responsible, promising to increase the state's rainy day fund. But the details reveal a dangerous l | https://www.facebook.com/100076110496091/posts/1122288596984813 | t44→t45 |
 | 478 | Experience matters. As a judge pro tem, community chair, and with extensive trial experience, I'm ready to serve with ho | https://www.facebook.com/100076110496091/posts/1043211234892550 | t13→t16 |
-| 472 | Running for office means making call time and asking for money to fund your campaign. While some say public financing he | https://www.facebook.com/100076110496091/posts/1125093173371022 | t44→t44 |
+| 472 | Running for office means making call time and asking for money to fund your campaign. While some say public financing he | https://www.facebook.com/100076110496091/posts/1125093173371022 | t44→t45 |
 | 467 | A major misconception about public defenders is that they don't care. Many believe we have too many cases to provide ind | https://www.facebook.com/100076110496091/posts/1040111951869145 | t10→t16 |
 | 463 | High property values and lower crime rates are not by accident. It takes a stable council and dedicated community member | https://www.facebook.com/100076110496091/posts/1096190692927937 | t36→t41 |
-| 461 | Prop 5 changes how recalls work, making it harder to remove officials and shifting the power of choosing their replaceme | https://www.facebook.com/100076110496091/posts/1125790853301254 | t44→t44 |
+| 461 | Prop 5 changes how recalls work, making it harder to remove officials and shifting the power of choosing their replaceme | https://www.facebook.com/100076110496091/posts/1125790853301254 | t44→t45 |
 | 451 | The USOA pageantry mission is to empower, inspire, and uplift. Competing in at least one pageant can dramatically improv | https://www.facebook.com/100076110496091/posts/1029006066313067 | t8→t9 |
 | 442 | Spreading knowledge about who we are in the military and what we really do. It's more than just shooting guns; learn the | https://www.facebook.com/100076110496091/posts/1046493241231016 | t14→t17 |
 | 434 | California's proposed 5% wealth tax on billionaires faces a critical question: is it worth the cost? Despite initial rev | https://www.facebook.com/100076110496091/posts/1048076017739405 | t15→t18 |
@@ -663,8 +663,8 @@
 | 421 | Academic theories clash with the harsh reality of predatory pricing. This video unpacks how rent gouging impacts real pe | https://www.facebook.com/100076110496091/posts/1071845648695775 | t22→t30 |
 | 407 | Ladies, if you're second-guessing yourself, silence that doubt. Your time is now. Take the leap of faith and you'll neve | https://www.facebook.com/100076110496091/posts/1030084522871888 | t8→t12 |
 | 406 | The Democratic Socialists of America (DSA) supports candidates nationwide and holds specific views like defunding the po | https://www.facebook.com/100076110496091/posts/1078529251360748 | t29→t33 |
+| 397 | A new bond proposal aims to help the middle class afford homes, but critics worry it’s too costly and could inflate pric | https://www.facebook.com/100076110496091/posts/1126022609944745 | t44→t45 |
 | 396 | Two very different post-case moments reveal the unpredictable nature of legal battles. One client’s control prevented a | https://www.facebook.com/100076110496091/posts/1075015071712166 | t24→t31 |
-| 396 | A new bond proposal aims to help the middle class afford homes, but critics worry it’s too costly and could inflate pric | https://www.facebook.com/100076110496091/posts/1126022609944745 | t44→t44 |
 | 392 | When moving the Rams to LA, Stan Kroenke urged, 'Go big.' He also took a massive gamble on hiring 30-year-old Sean McVay | https://www.facebook.com/100076110496091/posts/1066508905896116 | t20→t25 |
 | 389 | Ever wondered what a 92 Alpha Logistics Specialist does? For me, it's 6-month retraining and that's it. I love my job an | https://www.facebook.com/100076110496091/posts/1054838677063139 | t17→t21 |
 | 376 | When I spoke out against the DA during his election, he retaliated. After he won, I was moved from handling high-profile | https://www.facebook.com/100076110496091/posts/1081716034375403 | t29→t34 |
@@ -682,7 +682,7 @@
 | 343 | This mango passion refresher is perfect for kids or a quick treat on the go. Don't mind the passion fruit seeds! The lyc | https://www.facebook.com/100076110496091/posts/1086765573870449 | t31→t39 |
 | 340 | The judge states that guilt is immaterial; everyone deserves a vigorous defense, especially against the government's vas | https://www.facebook.com/100076110496091/posts/1039928985220775 | t10→t16 |
 | 340 | Exploring Downtown Downey led me to Tapoke Poke, a gem located at Gateway next to Starfish Sushi. It's a delightful asse | https://www.facebook.com/100076110496091/posts/1058038976743109 | t17→t21 |
-| 339 | I joined an organization to support families affected by fentanyl, hoping to build unity. Instead, I found a culture of | https://www.facebook.com/100076110496091/posts/1127658099781196 | t44→t44 |
+| 339 | I joined an organization to support families affected by fentanyl, hoping to build unity. Instead, I found a culture of | https://www.facebook.com/100076110496091/posts/1127658099781196 | t44→t45 |
 | 325 | When my study plans in Vietnam fell through, I faced a choice: Malaysia or Singapore. Choosing Singapore meant a year an | https://www.facebook.com/100076110496091/posts/1106101758603497 | t40→t42 |
 | 317 | As a defense attorney, I navigate the courtroom by connecting with everyone: defendants, families, victims, witnesses, l | https://www.facebook.com/100076110496091/posts/1042367408310266 | t10→t16 |
 | 316 | Did you know the Declaration of Independence is only 1,337 words? Our founding fathers risked everything to sign it. Rea | https://www.facebook.com/100076110496091/posts/1031647209382286 | t8→t13 |
@@ -692,10 +692,10 @@
 | 298 | I'm usually not a matcha person, but this popular drink changed my mind. It tastes amazing and I feel like it's going to | https://www.facebook.com/100076110496091/posts/1084438017436538 | t30→t39 |
 | 296 | Sometimes, despite objections, it's important to give someone a chance. Through programs for drugs and mental health, th | https://www.facebook.com/100076110496091/posts/1004124238801250 | t0→t4 |
 | 278 | Growing up, many friends faced legal troubles. Witnessing their struggles and hearing their claims of mistreatment spark | https://www.facebook.com/100076110496091/posts/1083373120876361 | t29→t35 |
-| 261 | True service is not about the paycheck; it is about the impact. From supporting our veterans and local youth to building | https://www.facebook.com/100076110496091/posts/1126947126518960 | t44→t44 |
+| 261 | True service is not about the paycheck; it is about the impact. From supporting our veterans and local youth to building | https://www.facebook.com/100076110496091/posts/1126947126518960 | t44→t45 |
 | 258 | Reflecting on success through the lens of influential figures like John Wooden, Mother Teresa, and Abraham Lincoln. A po | https://www.facebook.com/100076110496091/posts/1071008758779464 | t22→t29 |
 | 241 | Every story is unique. This guest shares how emphasizing personal narratives can make all the difference in recruiting. | https://www.facebook.com/100076110496091/posts/1108300028383670 | t40→t43 |
-| 234 | For years, paying for college was the driving force. After achieving that, a new 'why' emerged: serving as a 2nd lieuten | https://www.facebook.com/100076110496091/posts/1115391967674476 | t42→t44 |
+| 234 | For years, paying for college was the driving force. After achieving that, a new 'why' emerged: serving as a 2nd lieuten | https://www.facebook.com/100076110496091/posts/1115391967674476 | t42→t45 |
 | 226 | The current approach to this project isn't serving residents, citizens, or homeowners. We can and must do better. Let's | https://www.facebook.com/100076110496091/posts/1065028832710790 | t19→t25 |
 | 226 | Discover how empathy and authentic human connection transform conversations, especially when offering guidance. It's the | https://www.facebook.com/100076110496091/posts/1072475125299494 | t23→t31 |
 | 209 | Being rated 'well qualified' for a judgeship is a significant achievement. It's not just prosecutors; defense attorneys, | https://www.facebook.com/100076110496091/posts/1003380628875611 | t3→t3 |
@@ -703,10 +703,10 @@
 | 159 | Discover the prestigious Olmsted Scholarship Program. Learn how officers immerse themselves in new languages and culture | https://www.facebook.com/100076110496091/posts/1105378895342450 | t40→t42 |
 | 154 | Despite political divides, our nation's challenges pale in comparison to what past generations faced. We can make things | https://www.facebook.com/100076110496091/posts/1032543385959335 | t8→t13 |
 | 151 | Measure ER is on the ballot and it's designed to increase your taxes. Politicians present these measures with appealing | https://www.facebook.com/100076110496091/posts/1003397588873915 | t3→t4 |
-| 143 | The military instills discipline, values, and camaraderie. Even with minimal service, you'll learn leadership by being p | https://www.facebook.com/100076110496091/posts/1115619104318429 | t42→t44 |
+| 143 | The military instills discipline, values, and camaraderie. Even with minimal service, you'll learn leadership by being p | https://www.facebook.com/100076110496091/posts/1115619104318429 | t42→t45 |
 | 128 | Lived as a renter for 24 years, understanding the frustration of not being able to buy. I've experienced both good and b | https://www.facebook.com/100076110496091/posts/1082540877626252 | t29→t35 |
 | 120 | Serving our community starts with understanding. It's about forging real connections in Washington to ensure your voice | https://www.facebook.com/100076110496091/posts/1003390182207989 | t3→t4 |
-| 120 | Proposition 38 proposes an eight billion dollar bond for immunotherapy research through a unique public-private partners | https://www.facebook.com/100076110496091/posts/1127878073092532 | t44→t44 |
+| 120 | Proposition 38 proposes an eight billion dollar bond for immunotherapy research through a unique public-private partners | https://www.facebook.com/100076110496091/posts/1127878073092532 | t44→t45 |
 | 117 | Election season is here, and making informed decisions matters.  In this special Talking Downey episode, Mayor Mario Gue | https://www.facebook.com/100076110496091/posts/1002433145637026 | t3→t3 |
 | 111 | Reflecting on achievements in Pico Rivera and looking ahead to Congress. My commitment is to the people I serve, not pol | https://www.facebook.com/100076110496091/posts/1003405505539790 | t0→t4 |
 | 110 | To high school students, especially African-American and Hispanic youth: know that while athletics are great, having a b | https://www.facebook.com/100076110496091/posts/1081912601022413 | t29→t34 |
@@ -754,8 +754,8 @@
 | — | Election Day is around the corner!  Navigating state ballot measures can be confusing, so here’s a quick breakdown of th | https://www.facebook.com/100076110496091/posts/1113683681178638 | t41→t43 |
 | — | Here’s the thing: local elections are nonpartisan. You can be MAGA or not and still serve your community fairly.  ​The i | https://www.facebook.com/100076110496091/posts/1112877727925900 | t41→t43 |
 | — | The hypocrisy is real. Lissette Rivera’s supporters love calling out "MAGA" Mayor Frometa, yet they completely ignore th | https://www.facebook.com/100076110496091/posts/1112870374593302 | t41→t43 |
-| — | WOW! | https://www.facebook.com/100076110496091/posts/1119530920593914 | t42→t44 |
-| — | 🇺🇸 Now THIS made my day!  An unexpected visit to my office this afternoon from Jeremy and his dad, who came by to thank | https://www.facebook.com/100076110496091/posts/1119405340606472 | t42→t44 |
-| — | (no title) | https://www.facebook.com/100076110496091/posts/1117487774131562 | t43→t44 |
-| — | When you run for city | https://www.facebook.com/100076110496091/posts/1126040096609663 | t44→t44 |
-| — | (no title) | https://www.facebook.com/100076110496091/posts/1125886146625058 | t44→t44 |
+| — | WOW! | https://www.facebook.com/100076110496091/posts/1119530920593914 | t42→t45 |
+| — | 🇺🇸 Now THIS made my day!  An unexpected visit to my office this afternoon from Jeremy and his dad, who came by to thank | https://www.facebook.com/100076110496091/posts/1119405340606472 | t42→t45 |
+| — | (no title) | https://www.facebook.com/100076110496091/posts/1117487774131562 | t43→t45 |
+| — | When you run for city | https://www.facebook.com/100076110496091/posts/1126040096609663 | t44→t45 |
+| — | (no title) | https://www.facebook.com/100076110496091/posts/1125886146625058 | t44→t45 |
