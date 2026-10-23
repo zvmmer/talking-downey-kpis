@@ -134,7 +134,7 @@ def slide_platforms(prs, all_posts):
         "Instagram is the workhorse. TikTok punches above weight on breakouts. YouTube compounds. FB is the reliable floor.")
 
 
-CATEGORIES_PER_PAGE = 12
+CATEGORY_PAGES = 2
 
 
 def slide_category_ranking(prs, all_posts):
@@ -150,10 +150,11 @@ def slide_category_ranking(prs, all_posts):
     # Shared scale across pages so bar lengths stay comparable page to page.
     max_views = max((s["views"] for s in scored), default=1)
 
-    pages = [scored[i:i + CATEGORIES_PER_PAGE] for i in range(0, len(scored), CATEGORIES_PER_PAGE)]
+    per_page = -(-len(scored) // CATEGORY_PAGES)
+    pages = [scored[i:i + per_page] for i in range(0, len(scored), per_page)]
     for page_i, page in enumerate(pages):
         _category_ranking_page(prs, page, page_i, len(pages), max_views,
-                               rank_offset=page_i * CATEGORIES_PER_PAGE)
+                               rank_offset=page_i * per_page)
 
 
 def _category_ranking_page(prs, top, page_i, n_pages, max_views, rank_offset):
@@ -196,7 +197,8 @@ def _category_ranking_page(prs, top, page_i, n_pages, max_views, rank_offset):
         "other":                         ("Other",                  "muted"),
     }
 
-    row_h = 0.36
+    # 4.45" between header (y=2.35) and footer takeaway (y=6.85).
+    row_h = min(0.36, 4.45 / max(1, len(top)))
     y0 = 2.35
     x_bar = 3.7
     bar_max_w = 7.5
