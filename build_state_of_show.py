@@ -283,6 +283,13 @@ def slide_workhorses(prs, jun_posts, jul_posts, aug_posts):
         "politics_other":       ("Politics (other)",     PALETTE["navy"]),
         "judicial":             ("Judicial",             PALETTE["navy"]),
         "resident_highlight":   ("Resident Highlight",   PALETTE["green"]),
+        "military_service":     ("Military Service",     PALETTE["gold"]),
+        "city_governance":      ("City Hall & Civic",    PALETTE["navy"]),
+        "state_policy":         ("State Policy",         PALETTE["navy"]),
+        "sports":               ("Sports",               PALETTE["muted"]),
+        "life_lessons":         ("Leadership & Life",    PALETTE["sky"]),
+        "elections":            ("Elections",            PALETTE["navy"]),
+        "lisette_scandal":      ("Lisette Scandal",      PALETTE["cherry"]),
     }
 
     card_w, card_h, gap = 3.95, 1.7, 0.2

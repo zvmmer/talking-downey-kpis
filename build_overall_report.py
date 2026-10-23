@@ -134,12 +134,10 @@ def slide_platforms(prs, all_posts):
         "Instagram is the workhorse. TikTok punches above weight on breakouts. YouTube compounds. FB is the reliable floor.")
 
 
-def slide_category_ranking(prs, all_posts):
-    slide = slide_new(prs)
-    slide_header(slide, "All-time category ranking",
-                 "Which content types earned the most reach",
-                 "Cumulative view totals per category. Numbers speak — this is the sponsor's decision matrix.")
+CATEGORIES_PER_PAGE = 12
 
+
+def slide_category_ranking(prs, all_posts):
     buckets = group_by_category(all_posts)
     scored = []
     for cat, posts in buckets.items():
@@ -149,9 +147,25 @@ def slide_category_ranking(prs, all_posts):
         scored.append({"cat": cat, "posts": len(posts), "views": views,
                        "avg": views / len(posts) if posts else 0})
     scored.sort(key=lambda s: -s["views"])
-    top = scored[:12]
+    # Shared scale across pages so bar lengths stay comparable page to page.
+    max_views = max((s["views"] for s in scored), default=1)
 
-    max_views = max((s["views"] for s in top), default=1)
+    pages = [scored[i:i + CATEGORIES_PER_PAGE] for i in range(0, len(scored), CATEGORIES_PER_PAGE)]
+    for page_i, page in enumerate(pages):
+        _category_ranking_page(prs, page, page_i, len(pages), max_views,
+                               rank_offset=page_i * CATEGORIES_PER_PAGE)
+
+
+def _category_ranking_page(prs, top, page_i, n_pages, max_views, rank_offset):
+    slide = slide_new(prs)
+    if page_i == 0:
+        slide_header(slide, f"All-time category ranking · {page_i + 1} of {n_pages}",
+                     "Which content types earned the most reach",
+                     "Cumulative view totals per category. Numbers speak — this is the sponsor's decision matrix.")
+    else:
+        slide_header(slide, f"All-time category ranking · {page_i + 1} of {n_pages}",
+                     "The rest of the field",
+                     f"Categories ranked #{rank_offset + 1} and below. Same bar scale as page 1, so lengths compare directly.")
 
     label_map = {
         "trujillo_scandal":              ("Trujillo Scandal",       "cherry"),
@@ -172,6 +186,13 @@ def slide_category_ranking(prs, all_posts):
         "brand_growth":                  ("Brand Growth",           "blush"),
         "community_events":              ("Community Events",       "ink"),
         "community_local":               ("Community Local",        "ink"),
+        "military_service":              ("Military Service",       "gold"),
+        "legislation_policy_watch":      ("Legislation Watch",      "navy"),
+        "state_policy":                  ("State Policy",           "navy"),
+        "city_governance":               ("City Hall & Civic",      "navy"),
+        "downtown_nightlife_safety":     ("Downtown Nightlife",     "cherry"),
+        "sports":                        ("Sports",                 "muted"),
+        "life_lessons":                  ("Leadership & Life",      "sky"),
         "other":                         ("Other",                  "muted"),
     }
 
@@ -184,15 +205,20 @@ def slide_category_ranking(prs, all_posts):
         y = y0 + i * row_h
         label, color_key = label_map.get(s["cat"], (s["cat"], "muted"))
         add_text(slide, 0.8, y + 0.03, 2.7, row_h,
-                 label, size=11, color=PALETTE["ink"], bold=(i < 3))
+                 f"{rank_offset + i + 1}. {label}", size=11, color=PALETTE["ink"],
+                 bold=(rank_offset + i < 3))
         bar_w = max(0.05, bar_max_w * s["views"] / max_views)
         add_rect(slide, x_bar, y + 0.06, bar_w, row_h - 0.15, PALETTE[color_key])
         add_text(slide, x_bar + bar_w + 0.1, y + 0.03, 2.5, row_h,
                  f"{fmt_int(s['views'])}   ({s['posts']} posts · {s['avg']:,.0f} avg)",
                  size=10, color=PALETTE["muted"])
 
-    slide_footer_takeaway(slide,
-        "The top of the leaderboard tells you what's earning attention. The tail tells you where headroom exists.")
+    if page_i == 0:
+        slide_footer_takeaway(slide,
+            "The top of the leaderboard tells you what's earning attention. The tail tells you where headroom exists.")
+    else:
+        slide_footer_takeaway(slide,
+            "Smaller lanes aren't failures — they're where a single breakout post can move the whole ranking.")
 
 
 def slide_top10(prs, all_posts):
